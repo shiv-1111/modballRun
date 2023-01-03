@@ -1,0 +1,18 @@
+.logoContainer {
+  border-radius: 50%;
+  width: 12vh;
+  height: 12vh;
+  img {
+    object-fit: contain;
+  }
+}
+.flag {
+  display: flex;
+  height: 3vh;
+  background: rgba(0, 0, 0, 0.5);
+  justify-content: flex-end;
+  img {
+    height: 3vh;
+    width: auto;
+  }
+}

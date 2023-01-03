@@ -1,0 +1,28 @@
+.nav-item {
+  min-width: 6vw;
+  a {
+    padding: 0;
+    color: rgba(0, 0, 0, 0.495);
+    &:hover {
+      color: black !important;
+    }
+  }
+}
+
+.active {
+  color: black !important;
+}
+
+.navbar {
+  //   background-image: url("../images/road2.jpg");
+  // background: var(--road-grey);
+  //   background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  height: 10vh;
+
+  .navbar-nav {
+    border-top: 3px solid whitesmoke;
+    border-bottom: 3px solid whitesmoke;
+  }
+}

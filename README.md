@@ -7,8 +7,7 @@
    Gatsby Bootstrap 5 starter
 </h1>
 
-
-Minimal bootstrap 5 and Gatsby configuration with SCSS support. 
+Minimal bootstrap 5 and Gatsby configuration with SCSS support.
 
 Demo here : https://gatsbystarterbootstrap5.gatsbyjs.io/
 
@@ -18,13 +17,12 @@ Demo here : https://gatsbystarterbootstrap5.gatsbyjs.io/
 
 ## 🚀 How to install
 
-Use the Gatsby CLI to create a new site. 
+Use the Gatsby CLI to create a new site.
 
 ```shell
 # create a new Gatsby site using the default starter
 gatsby new gatsby-starter-bootstrap-5 https://github.com/r-ichard/gatsby-starter-bootstrap-5
 ```
-
 
 ## ✏️ How to develop locally
 
@@ -43,6 +41,13 @@ gatsby new gatsby-starter-bootstrap-5 https://github.com/r-ichard/gatsby-starter
 
     Open the `gatsby-starter-bootstrap-5` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
 
-## 💡 How to contribute 
+## 💡 How to contribute
 
 Any feedback is welcome and helpful.
+
+<!-- FONT -->
+
+Self hosting google font with fontsource
+pacakge name- npm-install-@fontsource/ubuntu
+Configured gatsby-config.js
+changed font-family in root section of layout.scss by changing the variable

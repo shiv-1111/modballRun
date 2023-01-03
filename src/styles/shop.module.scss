@@ -1,0 +1,32 @@
+.wrapper {
+  --red-grad: linear-gradient(to bottom right, #900000, #600000);
+  @media screen and (min-width: 768px) {
+    max-height: 50vh;
+    height: 50vh;
+  }
+  > div {
+    > div:first-child {
+      display: grid;
+      place-items: center;
+      img {
+        max-height: 48vh;
+        height: 100%;
+        filter: drop-shadow(-3px 5px 0 rgb(0, 0, 0, 0.6));
+        // box-shadow: 1px 1px 1px 10rem black;
+        // border: 1px solid red;
+      }
+    }
+    > div:last-child {
+      display: grid;
+      place-items: center;
+      button {
+        border: 2px outset black;
+        font-size: 3rem;
+        border-radius: 2rem;
+        background: var(--red-grad);
+        font-weight: 800;
+        text-shadow: 0 0 0.2rem black;
+      }
+    }
+  }
+}
