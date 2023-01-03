@@ -4,7 +4,7 @@ import { StaticImage } from "gatsby-plugin-image"
 export default function Register() {
   return (
     <div className="row">
-      <div className="col-12 col-md-8">
+      <div className="col-12 col-md-8 d-flex align-items-center">
         <StaticImage
           src="../images/registerNow.png"
           alt="banner"

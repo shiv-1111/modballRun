@@ -1,6 +1,6 @@
 import React from "react"
-import video from "../assets/video/myvideo.mp4"
 import * as styles from "../styles/video.module.scss"
+import video from "../assets/video/myvideo.mp4"
 
 export default function Video() {
   return (
