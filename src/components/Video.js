@@ -1,12 +1,15 @@
 import React from "react"
+// import videoBg from "../assets/video/myvideo.mp4"
 import * as styles from "../styles/video.module.scss"
-import video from "../assets/video/myvideo.mp4"
 
 export default function Video() {
   return (
     <div className={`${styles.videoWrapper}`}>
       <video loop autoPlay muted className={styles.videoEle}>
-        <source src={video} type="video/mp4" />
+        <source
+          src="https://ik.imagekit.io/uexzh6xkp/myVideo.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1672752833711"
+          type="video/mp4"
+        />
         Video not supported by your browser.
       </video>
     </div>
