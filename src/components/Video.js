@@ -8,7 +8,8 @@ export default function Video() {
       <video loop autoPlay muted className={styles.videoEle}>
         <source
           // src="https://ik.imagekit.io/uexzh6xkp/myVideo.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1672752833711"
-          src={videoBg}
+          src="#"
+          // src={videoBg}
           type="video/mp4"
         />
         Video not supported by your browser.
