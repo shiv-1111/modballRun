@@ -16,12 +16,12 @@ export default function Mapsection() {
             className="img-fluid h-100"
           />
         </div>
-        <div className="col-md-6 d-flex flex-column justify-content-center text-bg-dark gap-3 p-5">
+        <div className="col-md-6 d-flex flex-column justify-content-center gap-3 p-5">
           <h2>
             The most exciting, one-of-a-kind & India's First Automobile
             Adventure & Endurance Valley Run is here!
           </h2>
-          <h1>The Mod Ball Run!</h1>
+          <h1 className="display-3 text-dark">The Mod Ball Run!</h1>
           <p>
             Incredible fleet of cars rallying through the Paradise of India, to
             run echoes through the valleys and adrenaline through your veins

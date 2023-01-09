@@ -47,6 +47,21 @@ module.exports.AiFillYoutube = function AiFillYoutube (props) {
 
 /***/ }),
 
+/***/ "./node_modules/@react-icons/all-files/ai/AiOutlineMail.js":
+/*!*****************************************************************!*\
+  !*** ./node_modules/@react-icons/all-files/ai/AiOutlineMail.js ***!
+  \*****************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+// THIS FILE IS AUTO GENERATED
+var GenIcon = (__webpack_require__(/*! ../lib */ "./node_modules/@react-icons/all-files/lib/esm/index.js").GenIcon)
+module.exports.AiOutlineMail = function AiOutlineMail (props) {
+  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 1024 1024"},"child":[{"tag":"path","attr":{"d":"M928 160H96c-17.7 0-32 14.3-32 32v640c0 17.7 14.3 32 32 32h832c17.7 0 32-14.3 32-32V192c0-17.7-14.3-32-32-32zm-40 110.8V792H136V270.8l-27.6-21.5 39.3-50.5 42.8 33.3h643.1l42.8-33.3 39.3 50.5-27.7 21.5zM833.6 232L512 482 190.4 232l-42.8-33.3-39.3 50.5 27.6 21.5 341.6 265.6a55.99 55.99 0 0 0 68.7 0L888 270.8l27.6-21.5-39.3-50.5-42.7 33.2z"}}]})(props);
+};
+
+
+/***/ }),
+
 /***/ "./node_modules/@react-icons/all-files/fa/FaArrowLeft.js":
 /*!***************************************************************!*\
   !*** ./node_modules/@react-icons/all-files/fa/FaArrowLeft.js ***!
@@ -57,6 +72,21 @@ module.exports.AiFillYoutube = function AiFillYoutube (props) {
 var GenIcon = (__webpack_require__(/*! ../lib */ "./node_modules/@react-icons/all-files/lib/esm/index.js").GenIcon)
 module.exports.FaArrowLeft = function FaArrowLeft (props) {
   return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 448 512"},"child":[{"tag":"path","attr":{"d":"M257.5 445.1l-22.2 22.2c-9.4 9.4-24.6 9.4-33.9 0L7 273c-9.4-9.4-9.4-24.6 0-33.9L201.4 44.7c9.4-9.4 24.6-9.4 33.9 0l22.2 22.2c9.5 9.5 9.3 25-.4 34.3L136.6 216H424c13.3 0 24 10.7 24 24v32c0 13.3-10.7 24-24 24H136.6l120.5 114.8c9.8 9.3 10 24.8.4 34.3z"}}]})(props);
+};
+
+
+/***/ }),
+
+/***/ "./node_modules/@react-icons/all-files/io/IoMdCall.js":
+/*!************************************************************!*\
+  !*** ./node_modules/@react-icons/all-files/io/IoMdCall.js ***!
+  \************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+// THIS FILE IS AUTO GENERATED
+var GenIcon = (__webpack_require__(/*! ../lib */ "./node_modules/@react-icons/all-files/lib/esm/index.js").GenIcon)
+module.exports.IoMdCall = function IoMdCall (props) {
+  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 512 512"},"child":[{"tag":"path","attr":{"d":"M426.666 330.667a250.385 250.385 0 0 1-75.729-11.729c-7.469-2.136-16-1.073-21.332 5.333l-46.939 46.928c-60.802-30.928-109.864-80-140.802-140.803l46.939-46.927c5.332-5.333 7.462-13.864 5.332-21.333-8.537-24.531-12.802-50.136-12.802-76.803C181.333 73.604 171.734 64 160 64H85.333C73.599 64 64 73.604 64 85.333 64 285.864 226.136 448 426.666 448c11.73 0 21.334-9.604 21.334-21.333V352c0-11.729-9.604-21.333-21.334-21.333z"}}]})(props);
 };
 
 
@@ -460,10 +490,12 @@ module.exports["default"] = camelCase;
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "footer": () => (/* binding */ footer)
+/* harmony export */   "footer": () => (/* binding */ footer),
+/* harmony export */   "imgCont": () => (/* binding */ imgCont)
 /* harmony export */ });
 // Exports
 var footer = "footer-module--footer--02543";
+var imgCont = "footer-module--imgCont--b184e";
 
 
 /***/ }),
@@ -1264,10 +1296,18 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _styles_footer_module_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../styles/footer.module.scss */ "./src/styles/footer.module.scss");
-/* harmony import */ var _react_icons_all_files_ai_AiFillInstagram__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @react-icons/all-files/ai/AiFillInstagram */ "./node_modules/@react-icons/all-files/ai/AiFillInstagram.js");
-/* harmony import */ var _react_icons_all_files_ai_AiFillFacebook__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @react-icons/all-files/ai/AiFillFacebook */ "./node_modules/@react-icons/all-files/ai/AiFillFacebook.js");
-/* harmony import */ var _react_icons_all_files_ai_AiFillYoutube__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @react-icons/all-files/ai/AiFillYoutube */ "./node_modules/@react-icons/all-files/ai/AiFillYoutube.js");
-/* harmony import */ var _react_icons_all_files_fa_FaArrowLeft__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @react-icons/all-files/fa/FaArrowLeft */ "./node_modules/@react-icons/all-files/fa/FaArrowLeft.js");
+/* harmony import */ var gatsby__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! gatsby */ "./.cache/gatsby-browser-entry.js");
+/* harmony import */ var _react_icons_all_files_ai_AiFillInstagram__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @react-icons/all-files/ai/AiFillInstagram */ "./node_modules/@react-icons/all-files/ai/AiFillInstagram.js");
+/* harmony import */ var _react_icons_all_files_ai_AiFillFacebook__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @react-icons/all-files/ai/AiFillFacebook */ "./node_modules/@react-icons/all-files/ai/AiFillFacebook.js");
+/* harmony import */ var _react_icons_all_files_ai_AiFillYoutube__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @react-icons/all-files/ai/AiFillYoutube */ "./node_modules/@react-icons/all-files/ai/AiFillYoutube.js");
+/* harmony import */ var _react_icons_all_files_fa_FaArrowLeft__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @react-icons/all-files/fa/FaArrowLeft */ "./node_modules/@react-icons/all-files/fa/FaArrowLeft.js");
+/* harmony import */ var _react_icons_all_files_io_IoMdCall__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! @react-icons/all-files/io/IoMdCall */ "./node_modules/@react-icons/all-files/io/IoMdCall.js");
+/* harmony import */ var _react_icons_all_files_ai_AiOutlineMail__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! @react-icons/all-files/ai/AiOutlineMail */ "./node_modules/@react-icons/all-files/ai/AiOutlineMail.js");
+/* harmony import */ var gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! gatsby-plugin-image */ "./node_modules/gatsby-plugin-image/dist/gatsby-image.module.js");
+
+
+
+
 
 
 
@@ -1276,27 +1316,75 @@ __webpack_require__.r(__webpack_exports__);
 
 function Footer() {
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("footer", {
-    className: `${_styles_footer_module_scss__WEBPACK_IMPORTED_MODULE_1__.footer} container-fluid bg-dark`
+    className: `${_styles_footer_module_scss__WEBPACK_IMPORTED_MODULE_1__.footer} container-fluid justify-content-between`
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "row px-1 px-md-5 py-3 gap-md-0 gap-3"
+    className: "row px-1 px-md-5 py-3 gap-md-0 gap-3 bg-dark mb-2 "
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     className: "col-md-7 col-12"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("input", {
     type: "text",
-    placeholder: "Subscribe Us"
+    placeholder: "Subscribe Us",
+    className: "rounded-pill px-4 shadow"
   }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("button", {
-    type: "submit"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_react_icons_all_files_fa_FaArrowLeft__WEBPACK_IMPORTED_MODULE_2__.FaArrowLeft, null))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "col-md-5 col-12 d-flex justify-content-center gap-3 justify-content-md-end"
+    type: "submit",
+    className: "shadow"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_react_icons_all_files_fa_FaArrowLeft__WEBPACK_IMPORTED_MODULE_3__.FaArrowLeft, null))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "col-md-5 col-12 d-flex justify-content-center gap-3"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
-    href: "https://www.instagram.com"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_react_icons_all_files_ai_AiFillInstagram__WEBPACK_IMPORTED_MODULE_3__.AiFillInstagram, null)), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
-    href: "https://www.facebook.com"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_react_icons_all_files_ai_AiFillFacebook__WEBPACK_IMPORTED_MODULE_4__.AiFillFacebook, null)), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
-    href: "https://www.youtube.com/"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_react_icons_all_files_ai_AiFillYoutube__WEBPACK_IMPORTED_MODULE_5__.AiFillYoutube, null)))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "row"
-  }));
+    href: "https://www.instagram.com",
+    className: "shadow"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_react_icons_all_files_ai_AiFillInstagram__WEBPACK_IMPORTED_MODULE_4__.AiFillInstagram, null)), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
+    href: "https://www.facebook.com",
+    className: "shadow"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_react_icons_all_files_ai_AiFillFacebook__WEBPACK_IMPORTED_MODULE_5__.AiFillFacebook, null)), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
+    href: "https://www.youtube.com/",
+    className: "shadow"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_react_icons_all_files_ai_AiFillYoutube__WEBPACK_IMPORTED_MODULE_6__.AiFillYoutube, null)))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "row justify-content-md-between justify-content-center align-items-center bg-dark"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "col-md-4 col-10 p-2 p-md-5 text-center"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "pb-5"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_7__.StaticImage, {
+    src: "../images/logo.png",
+    alt: "logo",
+    className: `${_styles_footer_module_scss__WEBPACK_IMPORTED_MODULE_1__.imgCont} text-white`,
+    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/3741423757.json */ "./.cache/caches/gatsby-plugin-image/3741423757.json")
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
+    className: "text-light"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("small", null, "Lorem ipsum dolor sit, amet consectetur adipisicing edivt. Sunt facidivs at consectetur saepe autem maxime expdivcabo adipisci amet iure animi."))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "col-md-4 col-10 p-2 p-md-5 d-flex justify-content-around gap-3 align-items-center text-justify flex-md-column"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__.Link, {
+    to: "/",
+    className: "text-white text-decoration-none"
+  }, "Home")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__.Link, {
+    to: "/about",
+    className: "text-white text-decoration-none"
+  }, "Tour")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__.Link, {
+    to: "/participant",
+    className: "text-white text-decoration-none"
+  }, "Participant")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__.Link, {
+    to: "/shop",
+    className: "text-white text-decoration-none"
+  }, "Shop")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__.Link, {
+    to: "/contact",
+    className: "text-white text-decoration-none"
+  }, "Contact"))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "col-md-4 col-10 p-2 p-md-5 text-center d-flex align-items-center flex-md-column justify-content-around"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__.Link, {
+    to: "/contact",
+    className: "btn btn-light"
+  }, "Contact Us"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "py-4"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_react_icons_all_files_io_IoMdCall__WEBPACK_IMPORTED_MODULE_8__.IoMdCall, {
+    className: "text-white"
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
+    className: "text-white"
+  }, "+123456789"))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_react_icons_all_files_ai_AiOutlineMail__WEBPACK_IMPORTED_MODULE_9__.AiOutlineMail, {
+    className: "text-white"
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
+    className: "text-white"
+  }, "modball@xyz.com")))));
 }
 
 /***/ }),
@@ -1336,8 +1424,67 @@ function Mapsection() {
     className: "img-fluid h-100",
     __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/834524385.json */ "./.cache/caches/gatsby-plugin-image/834524385.json")
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "col-md-6 d-flex flex-column justify-content-center text-bg-dark gap-3 p-5"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h2", null, "The most exciting, one-of-a-kind & India's First Automobile Adventure & Endurance Valley Run is here!"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h1", null, "The Mod Ball Run!"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "Incredible fleet of cars rallying through the Paradise of India, to run echoes through the valleys and adrenaline through your veins with High-Performance Cars, Tuned Engines and Super Cars. This exciting event aims to inspire automobile enthusiasts to build a culture by bonding as a community of Explorers, and Adventure seekers"))));
+    className: "col-md-6 d-flex flex-column justify-content-center gap-3 p-5"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h2", null, "The most exciting, one-of-a-kind & India's First Automobile Adventure & Endurance Valley Run is here!"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h1", {
+    className: "display-3 text-dark"
+  }, "The Mod Ball Run!"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "Incredible fleet of cars rallying through the Paradise of India, to run echoes through the valleys and adrenaline through your veins with High-Performance Cars, Tuned Engines and Super Cars. This exciting event aims to inspire automobile enthusiasts to build a culture by bonding as a community of Explorers, and Adventure seekers"))));
+}
+
+/***/ }),
+
+/***/ "./src/components/PhotoGallery.js":
+/*!****************************************!*\
+  !*** ./src/components/PhotoGallery.js ***!
+  \****************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* binding */ PhotoGallery)
+/* harmony export */ });
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+
+const wrapper = {
+  width: "100vw"
+};
+function PhotoGallery() {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "container-fluid bg-dark py-5"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "row justify-content-between px-5"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("span", {
+    className: "col-auto fw-bold text-light d-grid place-items-center"
+  }, "Photo Gallery"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("span", {
+    className: "col-auto fw-bold btn btn-light shadow rounded-pill"
+  }, "View All")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "row justify-content-around py-5"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "col-4 bg-light p-0 rounded d-flex justify-content-center align-items-end bg-dark"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("img", {
+    src: "https://thumbs.dreamstime.com/b/vintage-red-motorcycle-generic-motorbike-old-motor-cycle-parked-green-grass-yard-countryside-48374308.jpg",
+    alt: "gallery pic",
+    width: "95%",
+    height: "95%",
+    className: "rounded"
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "col-4 bg-light p-0 rounded d-flex justify-content-center align-items-center bg-dark"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("img", {
+    src: "https://thumbs.dreamstime.com/b/vintage-red-motorcycle-generic-motorbike-old-motor-cycle-parked-green-grass-yard-countryside-48374308.jpg",
+    alt: "gallery pic",
+    width: "100%",
+    height: "100%",
+    className: "rounded shadow"
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "col-4 bg-light p-0 rounded d-flex justify-content-center align-items-end bg-dark"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("img", {
+    src: "https://thumbs.dreamstime.com/b/vintage-red-motorcycle-generic-motorbike-old-motor-cycle-parked-green-grass-yard-countryside-48374308.jpg",
+    alt: "gallery pic",
+    width: "95%",
+    height: "95%",
+    className: "rounded"
+  }))));
 }
 
 /***/ }),
@@ -1360,9 +1507,9 @@ __webpack_require__.r(__webpack_exports__);
 
 function Register() {
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "row"
+    className: "row py-5 bg-light"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "col-12 col-md-8 d-flex align-items-center"
+    className: "col-12 col-md-8 d-flex align-items-center justify-content-center"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_1__.StaticImage, {
     src: "../images/registerNow.png",
     alt: "banner",
@@ -1371,7 +1518,7 @@ function Register() {
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     className: "col-md-4 col-12 d-flex align-items-center justify-content-center"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("form", {
-    className: "bg-light w-100 w-md-80 m-3 p-4 shadow d-flex flex-column gap-4 justify-content-center"
+    className: "w-100 w-md-80 m-3 p-4 d-flex flex-column gap-4 justify-content-center"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     className: "d-flex flex-column gap-4 justify-content-center"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("input", {
@@ -1422,7 +1569,7 @@ __webpack_require__.r(__webpack_exports__);
 
 function Shop() {
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: `${_styles_shop_module_scss__WEBPACK_IMPORTED_MODULE_1__.wrapper} bg-light container-fluid py-md-0 py-3`
+    className: `${_styles_shop_module_scss__WEBPACK_IMPORTED_MODULE_1__.wrapper} bg-danger container-fluid py-md-0 py-3 mt-5`
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     className: "row h-100"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
@@ -1430,10 +1577,10 @@ function Shop() {
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_2__.StaticImage, {
     src: "../images/hoodie.png",
     alt: "hoodie",
-    className: "img-fluid",
+    className: "img-fluid ",
     __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/2215780484.json */ "./.cache/caches/gatsby-plugin-image/2215780484.json")
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "col-md-6"
+    className: "col-md-6 bg-black"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
     href: "https://www.google.com/"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("button", {
@@ -1457,20 +1604,22 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _styles_video_module_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../styles/video.module.scss */ "./src/styles/video.module.scss");
+/* harmony import */ var _assets_video_myvideo_mp4__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../assets/video/myvideo.mp4 */ "./src/assets/video/myvideo.mp4");
+/* harmony import */ var _styles_video_module_scss__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../styles/video.module.scss */ "./src/styles/video.module.scss");
 
-// import video from "../assets/video/myvideo.mp4"
+
 
 function Video() {
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: `${_styles_video_module_scss__WEBPACK_IMPORTED_MODULE_1__.videoWrapper}`
+    className: `${_styles_video_module_scss__WEBPACK_IMPORTED_MODULE_2__.videoWrapper}`
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("video", {
     loop: true,
     autoPlay: true,
     muted: true,
-    className: _styles_video_module_scss__WEBPACK_IMPORTED_MODULE_1__.videoEle
+    className: _styles_video_module_scss__WEBPACK_IMPORTED_MODULE_2__.videoEle
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("source", {
-    src: "../assets/video/myVideo.mp4",
+    // src="https://ik.imagekit.io/uexzh6xkp/myVideo.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1672752833711"
+    src: _assets_video_myvideo_mp4__WEBPACK_IMPORTED_MODULE_1__["default"],
     type: "video/mp4"
   }), "Video not supported by your browser."));
 }
@@ -1549,11 +1698,11 @@ __webpack_require__.r(__webpack_exports__);
 
 function Logobar() {
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement("div", {
-    className: "container-fluid position-relative"
+    className: "container-fluid position-relative bg-dark"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement("div", {
     className: "row text-center"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement("div", {
-    className: `col-auto mx-auto d-flex justify-content-center align-items-center ${_styles_logobar_module_scss__WEBPACK_IMPORTED_MODULE_2__.logoContainer}`
+    className: `col-auto bg-light mx-auto d-flex justify-content-center align-items-center ${_styles_logobar_module_scss__WEBPACK_IMPORTED_MODULE_2__.logoContainer}`
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_3__.StaticImage, {
     src: "../images/logo.png",
     alt: "logo",
@@ -1563,10 +1712,11 @@ function Logobar() {
     className: "row position-absolute w-100"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement("div", {
     className: `${_styles_logobar_module_scss__WEBPACK_IMPORTED_MODULE_2__.flag} col-12 p-0`
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement("img", {
-    src: "https://media.istockphoto.com/id/460844989/photo/the-indian-flag-with-horizontal-tricolor-design.jpg?s=170667a&w=0&k=20&c=ZeNZN0jUpsgoMs8nkwSB6AGeyvDpg3lCN3Nd4qjcpcg=",
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_3__.StaticImage, {
+    src: "../images/indiaFlag.png",
     alt: "flag",
-    className: "img-fluid"
+    className: "img-fluid",
+    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/2556594343.json */ "./.cache/caches/gatsby-plugin-image/2556594343.json")
   }))));
 }
 
@@ -1617,27 +1767,27 @@ const Navbar = ({
     className: "collapse navbar-collapse",
     id: "main-navbar"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("ul", {
-    className: "navbar-nav me-auto mb-2 mb-md-0 d-flex w-100 justify-content-center gap-5 py-3 px-md-5 bg-dark"
+    className: "navbar-nav me-auto mb-2 mb-md-0 d-flex w-100 justify-content-center gap-md-5 gap-2 py-3 px-md-5 bg-dark"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("li", {
-    className: "nav-item bg-light text-center"
+    className: "nav-item text-center fw-bold"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(ExactNavLink, {
     to: "/"
   }, "Home")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("li", {
-    className: "nav-item bg-light text-center p-0"
+    className: "nav-item text-center fw-bold"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(ExactNavLink, {
     to: "/about"
   }, "Tour")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("li", {
-    className: "nav-item bg-light text-center"
+    className: "nav-item fw-bold text-center"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(ExactNavLink, {
-    to: "/about"
+    to: "/participant"
   }, "Participant")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("li", {
-    className: "nav-item bg-light text-center"
+    className: "nav-item fw-bold text-center"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(ExactNavLink, {
-    to: "/about"
+    to: "/shop"
   }, "Shop")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("li", {
-    className: "nav-item bg-light text-center"
+    className: "nav-item fw-bold text-center"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(ExactNavLink, {
-    to: "/about"
+    to: "/contact"
   }, "Contact"))))));
 };
 Navbar.propTypes = {
@@ -1739,7 +1889,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_Mapsection__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../components/Mapsection */ "./src/components/Mapsection.js");
 /* harmony import */ var _components_Shop__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../components/Shop */ "./src/components/Shop.js");
 /* harmony import */ var _components_Footer__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../components/Footer */ "./src/components/Footer.js");
-/* harmony import */ var _components_Register__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../components/Register */ "./src/components/Register.js");
+/* harmony import */ var _components_PhotoGallery__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../components/PhotoGallery */ "./src/components/PhotoGallery.js");
+/* harmony import */ var _components_Register__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../components/Register */ "./src/components/Register.js");
 
 // import { Link } from "gatsby"
 // import { StaticImage } from "gatsby-plugin-image"
@@ -1751,9 +1902,10 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-const IndexPage = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(react__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_layout__WEBPACK_IMPORTED_MODULE_1__["default"], null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_Video__WEBPACK_IMPORTED_MODULE_3__["default"], null)), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_Mapsection__WEBPACK_IMPORTED_MODULE_4__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_Shop__WEBPACK_IMPORTED_MODULE_5__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
+
+const IndexPage = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(react__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_layout__WEBPACK_IMPORTED_MODULE_1__["default"], null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_Video__WEBPACK_IMPORTED_MODULE_3__["default"], null)), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_Mapsection__WEBPACK_IMPORTED_MODULE_4__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_PhotoGallery__WEBPACK_IMPORTED_MODULE_7__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_Shop__WEBPACK_IMPORTED_MODULE_5__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
   className: "container-fluid"
-}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_Register__WEBPACK_IMPORTED_MODULE_7__["default"], null)), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_Footer__WEBPACK_IMPORTED_MODULE_6__["default"], null));
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_Register__WEBPACK_IMPORTED_MODULE_8__["default"], null)), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_Footer__WEBPACK_IMPORTED_MODULE_6__["default"], null));
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (IndexPage);
 const Head = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_seo__WEBPACK_IMPORTED_MODULE_2__.Seo, null);
 {
@@ -1799,6 +1951,21 @@ const Head = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement
 
 /***/ }),
 
+/***/ "./src/assets/video/myvideo.mp4":
+/*!**************************************!*\
+  !*** ./src/assets/video/myvideo.mp4 ***!
+  \**************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "static/myvideo-a8903c01090eba13f0c2327034e5bf46.mp4");
+
+/***/ }),
+
 /***/ "./.cache/caches/gatsby-plugin-image/2215780484.json":
 /*!***********************************************************!*\
   !*** ./.cache/caches/gatsby-plugin-image/2215780484.json ***!
@@ -1807,6 +1974,17 @@ const Head = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement
 
 "use strict";
 module.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#f8f8f8","images":{"fallback":{"src":"/static/81097d52247a1b4d39e2b0f763ef7d69/73fc9/hoodie.png","srcSet":"/static/81097d52247a1b4d39e2b0f763ef7d69/800ab/hoodie.png 119w,\\n/static/81097d52247a1b4d39e2b0f763ef7d69/0fb78/hoodie.png 239w,\\n/static/81097d52247a1b4d39e2b0f763ef7d69/73fc9/hoodie.png 477w","sizes":"(min-width: 477px) 477px, 100vw"},"sources":[{"srcSet":"/static/81097d52247a1b4d39e2b0f763ef7d69/c0177/hoodie.webp 119w,\\n/static/81097d52247a1b4d39e2b0f763ef7d69/6686c/hoodie.webp 239w,\\n/static/81097d52247a1b4d39e2b0f763ef7d69/f7487/hoodie.webp 477w","type":"image/webp","sizes":"(min-width: 477px) 477px, 100vw"}]},"width":477,"height":641}');
+
+/***/ }),
+
+/***/ "./.cache/caches/gatsby-plugin-image/2556594343.json":
+/*!***********************************************************!*\
+  !*** ./.cache/caches/gatsby-plugin-image/2556594343.json ***!
+  \***********************************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#f8f8f8","images":{"fallback":{"src":"/static/e40d41020bfca86072ab1cbdc10d1c2e/bcd39/indiaFlag.png","srcSet":"/static/e40d41020bfca86072ab1cbdc10d1c2e/55fa0/indiaFlag.png 11w,\\n/static/e40d41020bfca86072ab1cbdc10d1c2e/02e4d/indiaFlag.png 21w,\\n/static/e40d41020bfca86072ab1cbdc10d1c2e/bcd39/indiaFlag.png 42w","sizes":"(min-width: 42px) 42px, 100vw"},"sources":[{"srcSet":"/static/e40d41020bfca86072ab1cbdc10d1c2e/503e4/indiaFlag.webp 11w,\\n/static/e40d41020bfca86072ab1cbdc10d1c2e/efae9/indiaFlag.webp 21w,\\n/static/e40d41020bfca86072ab1cbdc10d1c2e/15536/indiaFlag.webp 42w","type":"image/webp","sizes":"(min-width: 42px) 42px, 100vw"}]},"width":42,"height":10}');
 
 /***/ }),
 

@@ -890,11 +890,11 @@ __webpack_require__.r(__webpack_exports__);
 
 function Logobar() {
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement("div", {
-    className: "container-fluid position-relative"
+    className: "container-fluid position-relative bg-dark"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement("div", {
     className: "row text-center"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement("div", {
-    className: `col-auto mx-auto d-flex justify-content-center align-items-center ${_styles_logobar_module_scss__WEBPACK_IMPORTED_MODULE_2__.logoContainer}`
+    className: `col-auto bg-light mx-auto d-flex justify-content-center align-items-center ${_styles_logobar_module_scss__WEBPACK_IMPORTED_MODULE_2__.logoContainer}`
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_3__.StaticImage, {
     src: "../images/logo.png",
     alt: "logo",
@@ -904,10 +904,11 @@ function Logobar() {
     className: "row position-absolute w-100"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement("div", {
     className: `${_styles_logobar_module_scss__WEBPACK_IMPORTED_MODULE_2__.flag} col-12 p-0`
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement("img", {
-    src: "https://media.istockphoto.com/id/460844989/photo/the-indian-flag-with-horizontal-tricolor-design.jpg?s=170667a&w=0&k=20&c=ZeNZN0jUpsgoMs8nkwSB6AGeyvDpg3lCN3Nd4qjcpcg=",
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_3__.StaticImage, {
+    src: "../images/indiaFlag.png",
     alt: "flag",
-    className: "img-fluid"
+    className: "img-fluid",
+    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/2556594343.json */ "./.cache/caches/gatsby-plugin-image/2556594343.json")
   }))));
 }
 
@@ -958,27 +959,27 @@ const Navbar = ({
     className: "collapse navbar-collapse",
     id: "main-navbar"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("ul", {
-    className: "navbar-nav me-auto mb-2 mb-md-0 d-flex w-100 justify-content-center gap-5 py-3 px-md-5 bg-dark"
+    className: "navbar-nav me-auto mb-2 mb-md-0 d-flex w-100 justify-content-center gap-md-5 gap-2 py-3 px-md-5 bg-dark"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("li", {
-    className: "nav-item bg-light text-center"
+    className: "nav-item text-center fw-bold"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(ExactNavLink, {
     to: "/"
   }, "Home")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("li", {
-    className: "nav-item bg-light text-center p-0"
+    className: "nav-item text-center fw-bold"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(ExactNavLink, {
     to: "/about"
   }, "Tour")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("li", {
-    className: "nav-item bg-light text-center"
+    className: "nav-item fw-bold text-center"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(ExactNavLink, {
-    to: "/about"
+    to: "/participant"
   }, "Participant")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("li", {
-    className: "nav-item bg-light text-center"
+    className: "nav-item fw-bold text-center"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(ExactNavLink, {
-    to: "/about"
+    to: "/shop"
   }, "Shop")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("li", {
-    className: "nav-item bg-light text-center"
+    className: "nav-item fw-bold text-center"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(ExactNavLink, {
-    to: "/about"
+    to: "/contact"
   }, "Contact"))))));
 };
 Navbar.propTypes = {
@@ -1116,6 +1117,17 @@ const Head = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement
 /***/ (() => {
 
 
+
+/***/ }),
+
+/***/ "./.cache/caches/gatsby-plugin-image/2556594343.json":
+/*!***********************************************************!*\
+  !*** ./.cache/caches/gatsby-plugin-image/2556594343.json ***!
+  \***********************************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#f8f8f8","images":{"fallback":{"src":"/static/e40d41020bfca86072ab1cbdc10d1c2e/bcd39/indiaFlag.png","srcSet":"/static/e40d41020bfca86072ab1cbdc10d1c2e/55fa0/indiaFlag.png 11w,\\n/static/e40d41020bfca86072ab1cbdc10d1c2e/02e4d/indiaFlag.png 21w,\\n/static/e40d41020bfca86072ab1cbdc10d1c2e/bcd39/indiaFlag.png 42w","sizes":"(min-width: 42px) 42px, 100vw"},"sources":[{"srcSet":"/static/e40d41020bfca86072ab1cbdc10d1c2e/503e4/indiaFlag.webp 11w,\\n/static/e40d41020bfca86072ab1cbdc10d1c2e/efae9/indiaFlag.webp 21w,\\n/static/e40d41020bfca86072ab1cbdc10d1c2e/15536/indiaFlag.webp 42w","type":"image/webp","sizes":"(min-width: 42px) 42px, 100vw"}]},"width":42,"height":10}');
 
 /***/ }),
 

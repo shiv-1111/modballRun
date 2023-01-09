@@ -8,6 +8,7 @@ import Video from "../components/Video"
 import Mapsection from "../components/Mapsection"
 import Shop from "../components/Shop"
 import Footer from "../components/Footer"
+import PhotoGallery from "../components/PhotoGallery"
 import Register from "../components/Register"
 
 const IndexPage = () => (
@@ -16,6 +17,7 @@ const IndexPage = () => (
       <Video />
     </Layout>
     <Mapsection />
+    <PhotoGallery />
     <Shop />
     <div className="container-fluid">
       <Register />

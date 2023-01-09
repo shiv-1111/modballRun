@@ -2,15 +2,15 @@
   min-width: 6vw;
   a {
     padding: 0;
-    color: rgba(0, 0, 0, 0.495);
+    color: rgba(256, 256, 256, 0.75);
     &:hover {
-      color: black !important;
+      color: white !important;
     }
   }
 }
 
 .active {
-  color: black !important;
+  color: #fff !important;
 }
 
 .navbar {
@@ -22,7 +22,7 @@
   height: 10vh;
 
   .navbar-nav {
-    border-top: 3px solid whitesmoke;
-    border-bottom: 3px solid whitesmoke;
+    // border-top: 3px solid whitesmoke;
+    // border-bottom: 3px solid whitesmoke;
   }
 }

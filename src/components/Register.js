@@ -3,8 +3,8 @@ import { StaticImage } from "gatsby-plugin-image"
 
 export default function Register() {
   return (
-    <div className="row">
-      <div className="col-12 col-md-8 d-flex align-items-center">
+    <div className="row py-5 bg-light">
+      <div className="col-12 col-md-8 d-flex align-items-center justify-content-center">
         <StaticImage
           src="../images/registerNow.png"
           alt="banner"
@@ -12,7 +12,7 @@ export default function Register() {
         />
       </div>
       <div className="col-md-4 col-12 d-flex align-items-center justify-content-center">
-        <form className="bg-light w-100 w-md-80 m-3 p-4 shadow d-flex flex-column gap-4 justify-content-center">
+        <form className="w-100 w-md-80 m-3 p-4 d-flex flex-column gap-4 justify-content-center">
           <div className="d-flex flex-column gap-4 justify-content-center">
             <input
               type="text"

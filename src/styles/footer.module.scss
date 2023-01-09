@@ -1,6 +1,6 @@
 .footer {
   --red-grad: linear-gradient(to bottom right, #900000, #600000);
-  height: 50vh;
+  min-height: 50vh;
   > div:first-child {
     > div:first-child {
       display: flex;
@@ -8,9 +8,7 @@
       gap: 1rem;
       input {
         flex-grow: 1;
-        &::placeholder {
-          padding: 1rem;
-        }
+        border: none;
       }
       button {
         width: 3rem;
@@ -49,5 +47,9 @@
         }
       }
     }
+  }
+  .imgCont {
+    background: transparent;
+    filter: drop-shadow(3px 3px 5px white);
   }
 }

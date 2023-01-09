@@ -31,21 +31,21 @@ const Navbar = ({ siteTitle }) => {
         </button> */}
 
         <div className="collapse navbar-collapse" id="main-navbar">
-          <ul className="navbar-nav me-auto mb-2 mb-md-0 d-flex w-100 justify-content-center gap-5 py-3 px-md-5 bg-dark">
-            <li className="nav-item bg-light text-center">
+          <ul className="navbar-nav me-auto mb-2 mb-md-0 d-flex w-100 justify-content-center gap-md-5 gap-2 py-3 px-md-5 bg-dark">
+            <li className="nav-item text-center fw-bold">
               <ExactNavLink to="/">Home</ExactNavLink>
             </li>
-            <li className="nav-item bg-light text-center p-0">
+            <li className="nav-item text-center fw-bold">
               <ExactNavLink to="/about">Tour</ExactNavLink>
             </li>
-            <li className="nav-item bg-light text-center">
-              <ExactNavLink to="/about">Participant</ExactNavLink>
+            <li className="nav-item fw-bold text-center">
+              <ExactNavLink to="/participant">Participant</ExactNavLink>
             </li>
-            <li className="nav-item bg-light text-center">
-              <ExactNavLink to="/about">Shop</ExactNavLink>
+            <li className="nav-item fw-bold text-center">
+              <ExactNavLink to="/shop">Shop</ExactNavLink>
             </li>
-            <li className="nav-item bg-light text-center">
-              <ExactNavLink to="/about">Contact</ExactNavLink>
+            <li className="nav-item fw-bold text-center">
+              <ExactNavLink to="/contact">Contact</ExactNavLink>
             </li>
           </ul>
         </div>
