@@ -21,9 +21,7 @@ export default function contact() {
         <div className="row">
           <div className="col-12 col-md-10 my-2">
             <h2 className="display fw-bold">How can we help you?</h2>
-            <p>
-              <small>Drop a line.</small>
-            </p>
+            <p>Drop a line.</p>
             <p>
               <small className="fw-bold">Don't hesitate to contact us.</small>
             </p>
@@ -44,13 +42,28 @@ export default function contact() {
               name="lastName"
             />
           </div>
+          <div className="col-12 col-md-10 d-flex gap-3">
+            <input
+              type="text"
+              placeholder="example@xyz.com"
+              className="form-control"
+              name="email"
+            />
+            <input
+              type="number"
+              placeholder="Your number here"
+              className="form-control"
+              name="lastName"
+            />
+          </div>
           <div className="col-12 col-md-10">
             <select
               name="contactType"
               id="contactType"
               className="form-control"
+              defaultValue={"Select an option"}
             >
-              <option disabled valuue="default" className="text-muted">
+              <option disabled className="text-muted">
                 Select an option
               </option>
               <option value="Enquiry">Enquire with us</option>

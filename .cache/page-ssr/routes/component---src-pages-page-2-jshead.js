@@ -890,26 +890,26 @@ __webpack_require__.r(__webpack_exports__);
 
 function Logobar() {
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement("div", {
-    className: "container-fluid position-relative bg-dark"
+    className: "container-fluid position-relative"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement("div", {
     className: "row text-center"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement("div", {
-    className: `col-auto bg-light mx-auto d-flex justify-content-center align-items-center ${_styles_logobar_module_scss__WEBPACK_IMPORTED_MODULE_2__.logoContainer}`
+    className: `col-auto mx-auto d-flex justify-content-center align-items-center ${_styles_logobar_module_scss__WEBPACK_IMPORTED_MODULE_2__.logoContainer}`
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_3__.StaticImage, {
-    src: "../images/logo.png",
+    src: "../images/modball run logo balck.png",
     alt: "logo",
-    className: "img-fluid",
-    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/3741423757.json */ "./.cache/caches/gatsby-plugin-image/3741423757.json")
+    className: "",
+    imgClassName: "img-fluid",
+    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/4224292492.json */ "./.cache/caches/gatsby-plugin-image/4224292492.json")
   }))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement("div", {
-    className: "row position-absolute w-100"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement("div", {
-    className: `${_styles_logobar_module_scss__WEBPACK_IMPORTED_MODULE_2__.flag} col-12 p-0`
+    className: `row position-absolute w-100 ${_styles_logobar_module_scss__WEBPACK_IMPORTED_MODULE_2__.flag}`
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_3__.StaticImage, {
-    src: "../images/indiaFlag.png",
+    src: "../images/indiaFlag.svg",
     alt: "flag",
-    className: "img-fluid",
-    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/2556594343.json */ "./.cache/caches/gatsby-plugin-image/2556594343.json")
-  }))));
+    className: "",
+    imgClassName: "img-fluid",
+    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/1174459191.json */ "./.cache/caches/gatsby-plugin-image/1174459191.json")
+  })));
 }
 
 /***/ }),
@@ -952,14 +952,14 @@ const Navbar = ({
   siteTitle
 }) => {
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("nav", {
-    className: "navbar navbar-expand navbar-dark bg-dark"
+    className: "navbar navbar-expand navbar-light"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     className: "container-fluid"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     className: "collapse navbar-collapse",
     id: "main-navbar"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("ul", {
-    className: "navbar-nav me-auto mb-2 mb-md-0 d-flex w-100 justify-content-center gap-md-5 gap-2 py-3 px-md-5 bg-dark"
+    className: "navbar-nav me-auto mb-2 mb-md-0 d-flex w-100 justify-content-center gap-md-5 gap-2 py-3 px-md-5"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("li", {
     className: "nav-item text-center fw-bold"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(ExactNavLink, {
@@ -967,15 +967,16 @@ const Navbar = ({
   }, "Home")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("li", {
     className: "nav-item text-center fw-bold"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(ExactNavLink, {
-    to: "/about"
+    to: "/tour"
   }, "Tour")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("li", {
     className: "nav-item fw-bold text-center"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(ExactNavLink, {
     to: "/participant"
   }, "Participant")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("li", {
     className: "nav-item fw-bold text-center"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(ExactNavLink, {
-    to: "/shop"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
+    href: "https://www.modcrew.in",
+    className: "text-decoration-none"
   }, "Shop")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("li", {
     className: "nav-item fw-bold text-center"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(ExactNavLink, {
@@ -1124,25 +1125,25 @@ const Head = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement
 
 /***/ }),
 
-/***/ "./.cache/caches/gatsby-plugin-image/2556594343.json":
+/***/ "./.cache/caches/gatsby-plugin-image/1174459191.json":
 /*!***********************************************************!*\
-  !*** ./.cache/caches/gatsby-plugin-image/2556594343.json ***!
+  !*** ./.cache/caches/gatsby-plugin-image/1174459191.json ***!
   \***********************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#f8f8f8","images":{"fallback":{"src":"/static/e40d41020bfca86072ab1cbdc10d1c2e/bcd39/indiaFlag.png","srcSet":"/static/e40d41020bfca86072ab1cbdc10d1c2e/55fa0/indiaFlag.png 11w,\\n/static/e40d41020bfca86072ab1cbdc10d1c2e/02e4d/indiaFlag.png 21w,\\n/static/e40d41020bfca86072ab1cbdc10d1c2e/bcd39/indiaFlag.png 42w","sizes":"(min-width: 42px) 42px, 100vw"},"sources":[{"srcSet":"/static/e40d41020bfca86072ab1cbdc10d1c2e/503e4/indiaFlag.webp 11w,\\n/static/e40d41020bfca86072ab1cbdc10d1c2e/efae9/indiaFlag.webp 21w,\\n/static/e40d41020bfca86072ab1cbdc10d1c2e/15536/indiaFlag.webp 42w","type":"image/webp","sizes":"(min-width: 42px) 42px, 100vw"}]},"width":42,"height":10}');
+module.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#f8f8f8","images":{"fallback":{"src":"/static/6f4c09afe1dece7ede104132e19efa2a/a605f/indiaFlag.svg","srcSet":"/static/6f4c09afe1dece7ede104132e19efa2a/ea66d/indiaFlag.svg 13w,\\n/static/6f4c09afe1dece7ede104132e19efa2a/8f5df/indiaFlag.svg 26w,\\n/static/6f4c09afe1dece7ede104132e19efa2a/a605f/indiaFlag.svg 52w","sizes":"(min-width: 52px) 52px, 100vw"},"sources":[{"srcSet":"/static/6f4c09afe1dece7ede104132e19efa2a/f53a3/indiaFlag.webp 13w,\\n/static/6f4c09afe1dece7ede104132e19efa2a/1bdd1/indiaFlag.webp 26w,\\n/static/6f4c09afe1dece7ede104132e19efa2a/2090e/indiaFlag.webp 52w","type":"image/webp","sizes":"(min-width: 52px) 52px, 100vw"}]},"width":52,"height":9}');
 
 /***/ }),
 
-/***/ "./.cache/caches/gatsby-plugin-image/3741423757.json":
+/***/ "./.cache/caches/gatsby-plugin-image/4224292492.json":
 /*!***********************************************************!*\
-  !*** ./.cache/caches/gatsby-plugin-image/3741423757.json ***!
+  !*** ./.cache/caches/gatsby-plugin-image/4224292492.json ***!
   \***********************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#080808","images":{"fallback":{"src":"/static/067eb6430c4126bf7b8e11cfff561d6b/682af/logo.png","srcSet":"/static/067eb6430c4126bf7b8e11cfff561d6b/2bcf2/logo.png 21w,\\n/static/067eb6430c4126bf7b8e11cfff561d6b/a3d9b/logo.png 41w,\\n/static/067eb6430c4126bf7b8e11cfff561d6b/682af/logo.png 82w","sizes":"(min-width: 82px) 82px, 100vw"},"sources":[{"srcSet":"/static/067eb6430c4126bf7b8e11cfff561d6b/5f97e/logo.webp 21w,\\n/static/067eb6430c4126bf7b8e11cfff561d6b/53ad7/logo.webp 41w,\\n/static/067eb6430c4126bf7b8e11cfff561d6b/5f6c5/logo.webp 82w","type":"image/webp","sizes":"(min-width: 82px) 82px, 100vw"}]},"width":82,"height":75}');
+module.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#080808","images":{"fallback":{"src":"/static/a4e74157a814c9e0420faa8b6019af95/b5658/modball%20run%20logo%20balck.png","srcSet":"/static/a4e74157a814c9e0420faa8b6019af95/acb7c/modball%20run%20logo%20balck.png 256w,\\n/static/a4e74157a814c9e0420faa8b6019af95/ccc41/modball%20run%20logo%20balck.png 512w,\\n/static/a4e74157a814c9e0420faa8b6019af95/b5658/modball%20run%20logo%20balck.png 1024w","sizes":"(min-width: 1024px) 1024px, 100vw"},"sources":[{"srcSet":"/static/a4e74157a814c9e0420faa8b6019af95/22bfc/modball%20run%20logo%20balck.webp 256w,\\n/static/a4e74157a814c9e0420faa8b6019af95/d689f/modball%20run%20logo%20balck.webp 512w,\\n/static/a4e74157a814c9e0420faa8b6019af95/67ded/modball%20run%20logo%20balck.webp 1024w","type":"image/webp","sizes":"(min-width: 1024px) 1024px, 100vw"}]},"width":1024,"height":1024}');
 
 /***/ }),
 

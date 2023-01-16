@@ -6,10 +6,10 @@ import Layout from "../components/layout"
 import { Seo } from "../components/seo"
 import Video from "../components/Video"
 import Mapsection from "../components/Mapsection"
-import Shop from "../components/Shop"
-import Footer from "../components/Footer"
 import PhotoGallery from "../components/PhotoGallery"
+import Shop from "../components/Shop"
 import Register from "../components/Register"
+import Footer from "../components/Footer"
 
 const IndexPage = () => (
   <>
@@ -17,7 +17,7 @@ const IndexPage = () => (
       <Video />
     </Layout>
     <Mapsection />
-    <PhotoGallery />
+    <PhotoGallery wrapperClasses="justify-content-between" />
     <Shop />
     <div className="container-fluid">
       <Register />

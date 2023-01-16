@@ -6,26 +6,26 @@ import { StaticImage } from "gatsby-plugin-image"
 
 export default function Logobar() {
   return (
-    <div className="container-fluid position-relative bg-dark">
+    <div className="container-fluid position-relative">
       <div className="row text-center">
         <div
-          className={`col-auto bg-light mx-auto d-flex justify-content-center align-items-center ${styles.logoContainer}`}
+          className={`col-auto mx-auto d-flex justify-content-center align-items-center ${styles.logoContainer}`}
         >
           <StaticImage
-            src="../images/logo.png"
+            src="../images/modball run logo balck.png"
             alt="logo"
-            className="img-fluid"
+            className=""
+            imgClassName="img-fluid"
           />
         </div>
       </div>
-      <div className="row position-absolute w-100">
-        <div className={`${styles.flag} col-12 p-0`}>
-          <StaticImage
-            src="../images/indiaFlag.png"
-            alt="flag"
-            className="img-fluid"
-          />
-        </div>
+      <div className={`row position-absolute w-100 ${styles.flag}`}>
+        <StaticImage
+          src="../images/indiaFlag.svg"
+          alt="flag"
+          className=""
+          imgClassName="img-fluid"
+        />
       </div>
     </div>
   )

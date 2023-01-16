@@ -12,7 +12,9 @@
   "component---src-pages-about-jshead.js": "component---src-pages-about-jshead.js",
   "component---src-pages-about-jshead.js.map": "component---src-pages-about-jshead.js.map",
   "component---src-pages-contact-js.js": "component---src-pages-contact-js.js",
+  "component---src-pages-contact-js.js.map": "component---src-pages-contact-js.js.map",
   "component---src-pages-contact-jshead.js": "component---src-pages-contact-jshead.js",
+  "component---src-pages-contact-jshead.js.map": "component---src-pages-contact-jshead.js.map",
   "component---src-pages-index-js.js": "component---src-pages-index-js.js",
   "component---src-pages-index-js.js.map": "component---src-pages-index-js.js.map",
   "component---src-pages-index-jshead.js": "component---src-pages-index-jshead.js",
@@ -25,7 +27,10 @@
   "component---src-pages-participant-js.js.map": "component---src-pages-participant-js.js.map",
   "component---src-pages-participant-jshead.js": "component---src-pages-participant-jshead.js",
   "component---src-pages-participant-jshead.js.map": "component---src-pages-participant-jshead.js.map",
+  "component---src-pages-tour-js.js": "component---src-pages-tour-js.js",
+  "component---src-pages-tour-js.js.map": "component---src-pages-tour-js.js.map",
+  "component---src-pages-tour-jshead.js": "component---src-pages-tour-jshead.js",
+  "component---src-pages-tour-jshead.js.map": "component---src-pages-tour-jshead.js.map",
   "render-page.js": "render-page.js",
-  "render-page.js.map": "render-page.js.map",
-  "static/myvideo.mp4": "static/myvideo-a8903c01090eba13f0c2327034e5bf46.mp4"
+  "render-page.js.map": "render-page.js.map"
 }

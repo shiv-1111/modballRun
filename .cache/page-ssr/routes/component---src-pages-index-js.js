@@ -2,51 +2,6 @@ exports.id = "component---src-pages-index-js";
 exports.ids = ["component---src-pages-index-js"];
 exports.modules = {
 
-/***/ "./node_modules/@react-icons/all-files/ai/AiFillFacebook.js":
-/*!******************************************************************!*\
-  !*** ./node_modules/@react-icons/all-files/ai/AiFillFacebook.js ***!
-  \******************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-// THIS FILE IS AUTO GENERATED
-var GenIcon = (__webpack_require__(/*! ../lib */ "./node_modules/@react-icons/all-files/lib/esm/index.js").GenIcon)
-module.exports.AiFillFacebook = function AiFillFacebook (props) {
-  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 1024 1024"},"child":[{"tag":"path","attr":{"d":"M880 112H144c-17.7 0-32 14.3-32 32v736c0 17.7 14.3 32 32 32h736c17.7 0 32-14.3 32-32V144c0-17.7-14.3-32-32-32zm-92.4 233.5h-63.9c-50.1 0-59.8 23.8-59.8 58.8v77.1h119.6l-15.6 120.7h-104V912H539.2V602.2H434.9V481.4h104.3v-89c0-103.3 63.1-159.6 155.3-159.6 44.2 0 82.1 3.3 93.2 4.8v107.9z"}}]})(props);
-};
-
-
-/***/ }),
-
-/***/ "./node_modules/@react-icons/all-files/ai/AiFillInstagram.js":
-/*!*******************************************************************!*\
-  !*** ./node_modules/@react-icons/all-files/ai/AiFillInstagram.js ***!
-  \*******************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-// THIS FILE IS AUTO GENERATED
-var GenIcon = (__webpack_require__(/*! ../lib */ "./node_modules/@react-icons/all-files/lib/esm/index.js").GenIcon)
-module.exports.AiFillInstagram = function AiFillInstagram (props) {
-  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 1024 1024"},"child":[{"tag":"path","attr":{"d":"M512 378.7c-73.4 0-133.3 59.9-133.3 133.3S438.6 645.3 512 645.3 645.3 585.4 645.3 512 585.4 378.7 512 378.7zM911.8 512c0-55.2.5-109.9-2.6-165-3.1-64-17.7-120.8-64.5-167.6-46.9-46.9-103.6-61.4-167.6-64.5-55.2-3.1-109.9-2.6-165-2.6-55.2 0-109.9-.5-165 2.6-64 3.1-120.8 17.7-167.6 64.5C132.6 226.3 118.1 283 115 347c-3.1 55.2-2.6 109.9-2.6 165s-.5 109.9 2.6 165c3.1 64 17.7 120.8 64.5 167.6 46.9 46.9 103.6 61.4 167.6 64.5 55.2 3.1 109.9 2.6 165 2.6 55.2 0 109.9.5 165-2.6 64-3.1 120.8-17.7 167.6-64.5 46.9-46.9 61.4-103.6 64.5-167.6 3.2-55.1 2.6-109.8 2.6-165zM512 717.1c-113.5 0-205.1-91.6-205.1-205.1S398.5 306.9 512 306.9 717.1 398.5 717.1 512 625.5 717.1 512 717.1zm213.5-370.7c-26.5 0-47.9-21.4-47.9-47.9s21.4-47.9 47.9-47.9 47.9 21.4 47.9 47.9a47.84 47.84 0 0 1-47.9 47.9z"}}]})(props);
-};
-
-
-/***/ }),
-
-/***/ "./node_modules/@react-icons/all-files/ai/AiFillYoutube.js":
-/*!*****************************************************************!*\
-  !*** ./node_modules/@react-icons/all-files/ai/AiFillYoutube.js ***!
-  \*****************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-// THIS FILE IS AUTO GENERATED
-var GenIcon = (__webpack_require__(/*! ../lib */ "./node_modules/@react-icons/all-files/lib/esm/index.js").GenIcon)
-module.exports.AiFillYoutube = function AiFillYoutube (props) {
-  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 1024 1024"},"child":[{"tag":"path","attr":{"d":"M941.3 296.1a112.3 112.3 0 0 0-79.2-79.3C792.2 198 512 198 512 198s-280.2 0-350.1 18.7A112.12 112.12 0 0 0 82.7 296C64 366 64 512 64 512s0 146 18.7 215.9c10.3 38.6 40.7 69 79.2 79.3C231.8 826 512 826 512 826s280.2 0 350.1-18.8c38.6-10.3 68.9-40.7 79.2-79.3C960 658 960 512 960 512s0-146-18.7-215.9zM423 646V378l232 133-232 135z"}}]})(props);
-};
-
-
-/***/ }),
-
 /***/ "./node_modules/@react-icons/all-files/ai/AiOutlineMail.js":
 /*!*****************************************************************!*\
   !*** ./node_modules/@react-icons/all-files/ai/AiOutlineMail.js ***!
@@ -57,21 +12,6 @@ module.exports.AiFillYoutube = function AiFillYoutube (props) {
 var GenIcon = (__webpack_require__(/*! ../lib */ "./node_modules/@react-icons/all-files/lib/esm/index.js").GenIcon)
 module.exports.AiOutlineMail = function AiOutlineMail (props) {
   return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 1024 1024"},"child":[{"tag":"path","attr":{"d":"M928 160H96c-17.7 0-32 14.3-32 32v640c0 17.7 14.3 32 32 32h832c17.7 0 32-14.3 32-32V192c0-17.7-14.3-32-32-32zm-40 110.8V792H136V270.8l-27.6-21.5 39.3-50.5 42.8 33.3h643.1l42.8-33.3 39.3 50.5-27.7 21.5zM833.6 232L512 482 190.4 232l-42.8-33.3-39.3 50.5 27.6 21.5 341.6 265.6a55.99 55.99 0 0 0 68.7 0L888 270.8l27.6-21.5-39.3-50.5-42.7 33.2z"}}]})(props);
-};
-
-
-/***/ }),
-
-/***/ "./node_modules/@react-icons/all-files/fa/FaArrowLeft.js":
-/*!***************************************************************!*\
-  !*** ./node_modules/@react-icons/all-files/fa/FaArrowLeft.js ***!
-  \***************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-// THIS FILE IS AUTO GENERATED
-var GenIcon = (__webpack_require__(/*! ../lib */ "./node_modules/@react-icons/all-files/lib/esm/index.js").GenIcon)
-module.exports.FaArrowLeft = function FaArrowLeft (props) {
-  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 448 512"},"child":[{"tag":"path","attr":{"d":"M257.5 445.1l-22.2 22.2c-9.4 9.4-24.6 9.4-33.9 0L7 273c-9.4-9.4-9.4-24.6 0-33.9L201.4 44.7c9.4-9.4 24.6-9.4 33.9 0l22.2 22.2c9.5 9.5 9.3 25-.4 34.3L136.6 216H424c13.3 0 24 10.7 24 24v32c0 13.3-10.7 24-24 24H136.6l120.5 114.8c9.8 9.3 10 24.8.4 34.3z"}}]})(props);
 };
 
 
@@ -490,12 +430,10 @@ module.exports["default"] = camelCase;
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "footer": () => (/* binding */ footer),
-/* harmony export */   "imgCont": () => (/* binding */ imgCont)
+/* harmony export */   "footer": () => (/* binding */ footer)
 /* harmony export */ });
 // Exports
 var footer = "footer-module--footer--02543";
-var imgCont = "footer-module--imgCont--b184e";
 
 
 /***/ }),
@@ -547,10 +485,46 @@ var flag = "logobar-module--flag--69ba0";
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "mapWrapper": () => (/* binding */ mapWrapper)
+/* harmony export */   "mapWrapper": () => (/* binding */ mapWrapper),
+/* harmony export */   "textCont": () => (/* binding */ textCont)
 /* harmony export */ });
 // Exports
 var mapWrapper = "mapsection-module--mapWrapper--bae68";
+var textCont = "mapsection-module--textCont--8a4fa";
+
+
+/***/ }),
+
+/***/ "./src/styles/photoGallery.module.scss":
+/*!*********************************************!*\
+  !*** ./src/styles/photoGallery.module.scss ***!
+  \*********************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "halfPill": () => (/* binding */ halfPill)
+/* harmony export */ });
+// Exports
+var halfPill = "photoGallery-module--halfPill--9a08d";
+
+
+/***/ }),
+
+/***/ "./src/styles/register.module.scss":
+/*!*****************************************!*\
+  !*** ./src/styles/register.module.scss ***!
+  \*****************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "imgCont": () => (/* binding */ imgCont)
+/* harmony export */ });
+// Exports
+var imgCont = "register-module--imgCont--fb688";
 
 
 /***/ }),
@@ -1297,28 +1271,24 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _styles_footer_module_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../styles/footer.module.scss */ "./src/styles/footer.module.scss");
 /* harmony import */ var gatsby__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! gatsby */ "./.cache/gatsby-browser-entry.js");
-/* harmony import */ var _react_icons_all_files_ai_AiFillInstagram__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @react-icons/all-files/ai/AiFillInstagram */ "./node_modules/@react-icons/all-files/ai/AiFillInstagram.js");
-/* harmony import */ var _react_icons_all_files_ai_AiFillFacebook__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @react-icons/all-files/ai/AiFillFacebook */ "./node_modules/@react-icons/all-files/ai/AiFillFacebook.js");
-/* harmony import */ var _react_icons_all_files_ai_AiFillYoutube__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @react-icons/all-files/ai/AiFillYoutube */ "./node_modules/@react-icons/all-files/ai/AiFillYoutube.js");
-/* harmony import */ var _react_icons_all_files_fa_FaArrowLeft__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @react-icons/all-files/fa/FaArrowLeft */ "./node_modules/@react-icons/all-files/fa/FaArrowLeft.js");
-/* harmony import */ var _react_icons_all_files_io_IoMdCall__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! @react-icons/all-files/io/IoMdCall */ "./node_modules/@react-icons/all-files/io/IoMdCall.js");
-/* harmony import */ var _react_icons_all_files_ai_AiOutlineMail__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! @react-icons/all-files/ai/AiOutlineMail */ "./node_modules/@react-icons/all-files/ai/AiOutlineMail.js");
-/* harmony import */ var gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! gatsby-plugin-image */ "./node_modules/gatsby-plugin-image/dist/gatsby-image.module.js");
+/* harmony import */ var _react_icons_all_files_io_IoMdCall__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @react-icons/all-files/io/IoMdCall */ "./node_modules/@react-icons/all-files/io/IoMdCall.js");
+/* harmony import */ var _react_icons_all_files_ai_AiOutlineMail__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @react-icons/all-files/ai/AiOutlineMail */ "./node_modules/@react-icons/all-files/ai/AiOutlineMail.js");
+/* harmony import */ var gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! gatsby-plugin-image */ "./node_modules/gatsby-plugin-image/dist/gatsby-image.module.js");
 
 
 
-
-
-
-
+// import { AiFillInstagram } from "@react-icons/all-files/ai/AiFillInstagram"
+// import { AiFillFacebook } from "@react-icons/all-files/ai/AiFillFacebook"
+// import { AiFillYoutube } from "@react-icons/all-files/ai/AiFillYoutube"
+// import { FaArrowLeft } from "@react-icons/all-files/fa/FaArrowLeft"
 
 
 
 function Footer() {
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("footer", {
-    className: `${_styles_footer_module_scss__WEBPACK_IMPORTED_MODULE_1__.footer} container-fluid justify-content-between`
+    className: `${_styles_footer_module_scss__WEBPACK_IMPORTED_MODULE_1__.footer} container-fluid my-2`
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "row px-1 px-md-5 py-3 gap-md-0 gap-3 bg-dark mb-2 "
+    className: "row px-1 px-md-5 py-4 mb-2 gap-md-0 gap-3 bg-black"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     className: "col-md-7 col-12"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("input", {
@@ -1327,33 +1297,54 @@ function Footer() {
     className: "rounded-pill px-4 shadow"
   }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("button", {
     type: "submit",
-    className: "shadow"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_react_icons_all_files_fa_FaArrowLeft__WEBPACK_IMPORTED_MODULE_3__.FaArrowLeft, null))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "col-md-5 col-12 d-flex justify-content-center gap-3"
+    className: "btn shadow"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_3__.StaticImage, {
+    src: "../images/right.png",
+    alt: "submit button image",
+    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/4223391110.json */ "./.cache/caches/gatsby-plugin-image/4223391110.json")
+  }))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "col-md-5 col-12 d-flex justify-content-end gap-4"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
     href: "https://www.instagram.com",
     className: "shadow"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_react_icons_all_files_ai_AiFillInstagram__WEBPACK_IMPORTED_MODULE_4__.AiFillInstagram, null)), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_3__.StaticImage, {
+    src: "../images/instagram.png",
+    alt: "instagram link img",
+    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/3050722743.json */ "./.cache/caches/gatsby-plugin-image/3050722743.json")
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
     href: "https://www.facebook.com",
     className: "shadow"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_react_icons_all_files_ai_AiFillFacebook__WEBPACK_IMPORTED_MODULE_5__.AiFillFacebook, null)), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_3__.StaticImage, {
+    src: "../images/facebook.png",
+    alt: "facebook link img",
+    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/2673816561.json */ "./.cache/caches/gatsby-plugin-image/2673816561.json")
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
     href: "https://www.youtube.com/",
     className: "shadow"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_react_icons_all_files_ai_AiFillYoutube__WEBPACK_IMPORTED_MODULE_6__.AiFillYoutube, null)))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "row justify-content-md-between justify-content-center align-items-center bg-dark"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_3__.StaticImage, {
+    src: "../images/youtube.png",
+    alt: "youtube link img",
+    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/114795751.json */ "./.cache/caches/gatsby-plugin-image/114795751.json")
+  })))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "row justify-content-md-between justify-content-center align-items-center bg-black"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "col-md-4 col-10 p-2 p-md-5 text-center"
+    className: "col-md-4 col-10 p-2 p-md-5 text-start"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "pb-5"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_7__.StaticImage, {
-    src: "../images/logo.png",
-    alt: "logo",
-    className: `${_styles_footer_module_scss__WEBPACK_IMPORTED_MODULE_1__.imgCont} text-white`,
-    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/3741423757.json */ "./.cache/caches/gatsby-plugin-image/3741423757.json")
+    className: "text-center"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_3__.StaticImage, {
+    src: "../images/modball run logo white.png",
+    alt: "logo"
+    // className={`${styles.imgCont}`}
+    ,
+    width: 120,
+    height: 120,
+    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/367343736.json */ "./.cache/caches/gatsby-plugin-image/367343736.json")
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
-    className: "text-light"
+    className: "text-light text-center"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("small", null, "Lorem ipsum dolor sit, amet consectetur adipisicing edivt. Sunt facidivs at consectetur saepe autem maxime expdivcabo adipisci amet iure animi."))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "col-md-4 col-10 p-2 p-md-5 d-flex justify-content-around gap-3 align-items-center text-justify flex-md-column"
+    className: "col-md-4 col-10 p-2 p-md-5 d-flex justify-content-around align-items-center text-justify"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "d-flex justify-content-around gap-3 align-items-start flex-md-column"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__.Link, {
     to: "/",
     className: "text-white text-decoration-none"
@@ -1369,22 +1360,26 @@ function Footer() {
   }, "Shop")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__.Link, {
     to: "/contact",
     className: "text-white text-decoration-none"
-  }, "Contact"))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "col-md-4 col-10 p-2 p-md-5 text-center d-flex align-items-center flex-md-column justify-content-around"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__.Link, {
+  }, "Contact")))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "col-md-4 col-10 p-2 p-md-5 text-center d-flex align-items-center flex-md-column justify-content-center"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "d-flex align-items-start flex-md-column justify-content-around gap-4"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__.Link, {
     to: "/contact",
-    className: "btn btn-light"
-  }, "Contact Us"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "py-4"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_react_icons_all_files_io_IoMdCall__WEBPACK_IMPORTED_MODULE_8__.IoMdCall, {
-    className: "text-white"
-  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
-    className: "text-white"
-  }, "+123456789"))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_react_icons_all_files_ai_AiOutlineMail__WEBPACK_IMPORTED_MODULE_9__.AiOutlineMail, {
+    className: "btn border-white text-white"
+  }, "Contact Us")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "d-flex gap-3"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_react_icons_all_files_ai_AiOutlineMail__WEBPACK_IMPORTED_MODULE_4__.AiOutlineMail, {
     className: "text-white"
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
     className: "text-white"
-  }, "modball@xyz.com")))));
+  }, "modball@xyz.com")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "d-flex gap-3"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_react_icons_all_files_io_IoMdCall__WEBPACK_IMPORTED_MODULE_5__.IoMdCall, {
+    className: "text-white"
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
+    className: "text-white"
+  }, "+123456789")))))));
 }
 
 /***/ }),
@@ -1409,9 +1404,9 @@ __webpack_require__.r(__webpack_exports__);
 
 function Mapsection() {
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: `container-fluid ${_styles_mapsection_module_scss__WEBPACK_IMPORTED_MODULE_1__.mapWrapper} py-3 py-md-0`
+    className: `container-fluid ${_styles_mapsection_module_scss__WEBPACK_IMPORTED_MODULE_1__.mapWrapper} py-3 py-md-0 bg-light`
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "row h-100"
+    className: "row h-100 py-2"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     className: "col-md-6"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_2__.StaticImage, {
@@ -1420,11 +1415,13 @@ function Mapsection() {
     // quality={95}
     ,
     formats: ["AUTO", "WEBP"],
-    alt: "tour map",
-    className: "img-fluid h-100",
+    alt: "tour map"
+    // className="h-100"
+    ,
+    imgClassName: "img-fluid",
     __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/834524385.json */ "./.cache/caches/gatsby-plugin-image/834524385.json")
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "col-md-6 d-flex flex-column justify-content-center gap-3 p-5"
+    className: `col-md-6 d-flex flex-column justify-content-center gap-3 p-5 border-md border-start border-5 border-white ${_styles_mapsection_module_scss__WEBPACK_IMPORTED_MODULE_1__.textCont}`
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h2", null, "The most exciting, one-of-a-kind & India's First Automobile Adventure & Endurance Valley Run is here!"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h1", {
     className: "display-3 text-dark"
   }, "The Mod Ball Run!"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "Incredible fleet of cars rallying through the Paradise of India, to run echoes through the valleys and adrenaline through your veins with High-Performance Cars, Tuned Engines and Super Cars. This exciting event aims to inspire automobile enthusiasts to build a culture by bonding as a community of Explorers, and Adventure seekers"))));
@@ -1445,45 +1442,50 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! gatsby-plugin-image */ "./node_modules/gatsby-plugin-image/dist/gatsby-image.module.js");
+/* harmony import */ var _styles_photoGallery_module_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../styles/photoGallery.module.scss */ "./src/styles/photoGallery.module.scss");
+
+
 
 const wrapper = {
   width: "100vw"
 };
-function PhotoGallery() {
+function PhotoGallery({
+  wrapperClasses,
+  textClasses,
+  display
+}) {
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "container-fluid bg-dark py-5"
+    className: "container-fluid bg-black pt-5"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "row justify-content-between px-5"
+    className: `${wrapperClasses} row d-flex align-items-center`
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("span", {
-    className: "col-auto fw-bold text-light d-grid place-items-center"
+    className: `${textClasses} ${_styles_photoGallery_module_scss__WEBPACK_IMPORTED_MODULE_1__.halfPill} col-auto fw-bold  px-5 py-2`
   }, "Photo Gallery"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("span", {
-    className: "col-auto fw-bold btn btn-light shadow rounded-pill"
+    className: `${display} col-auto fw-bold btn btn-dark shadow rounded-pill me-5`
   }, "View All")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     className: "row justify-content-around py-5"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "col-4 bg-light p-0 rounded d-flex justify-content-center align-items-end bg-dark"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("img", {
-    src: "https://thumbs.dreamstime.com/b/vintage-red-motorcycle-generic-motorbike-old-motor-cycle-parked-green-grass-yard-countryside-48374308.jpg",
+    className: "col-3 bg-light p-0 rounded d-flex justify-content-center align-items-center bg-black p-3"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_2__.StaticImage, {
+    src: "../images/gallery/photos/DSC08189.JPG",
     alt: "gallery pic",
-    width: "95%",
-    height: "95%",
-    className: "rounded"
+    className: "rounded",
+    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/3963331822.json */ "./.cache/caches/gatsby-plugin-image/3963331822.json")
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "col-4 bg-light p-0 rounded d-flex justify-content-center align-items-center bg-dark"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("img", {
-    src: "https://thumbs.dreamstime.com/b/vintage-red-motorcycle-generic-motorbike-old-motor-cycle-parked-green-grass-yard-countryside-48374308.jpg",
+    className: "col-5 bg-light p-0 rounded d-flex justify-content-center align-items-center bg-black shadow"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_2__.StaticImage, {
+    src: "../images/gallery/photos/DSC08083.JPG",
     alt: "gallery pic",
-    width: "100%",
-    height: "100%",
-    className: "rounded shadow"
+    className: "rounded shadow",
+    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/1334188431.json */ "./.cache/caches/gatsby-plugin-image/1334188431.json")
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "col-4 bg-light p-0 rounded d-flex justify-content-center align-items-end bg-dark"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("img", {
-    src: "https://thumbs.dreamstime.com/b/vintage-red-motorcycle-generic-motorbike-old-motor-cycle-parked-green-grass-yard-countryside-48374308.jpg",
+    className: "col-3 bg-light p-0 rounded d-flex justify-content-center align-items-center bg-black p-3"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_2__.StaticImage, {
+    src: "../images/gallery/photos/DSC08076.JPG",
     alt: "gallery pic",
-    width: "95%",
-    height: "95%",
-    className: "rounded"
+    className: "rounded",
+    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/4290697879.json */ "./.cache/caches/gatsby-plugin-image/4290697879.json")
   }))));
 }
 
@@ -1502,24 +1504,28 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! gatsby-plugin-image */ "./node_modules/gatsby-plugin-image/dist/gatsby-image.module.js");
+/* harmony import */ var gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! gatsby-plugin-image */ "./node_modules/gatsby-plugin-image/dist/gatsby-image.module.js");
+/* harmony import */ var _styles_register_module_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../styles/register.module.scss */ "./src/styles/register.module.scss");
+
 
 
 function Register() {
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "row py-5 bg-light"
+    className: "row position-relative"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "col-12 col-md-8 d-flex align-items-center justify-content-center"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_1__.StaticImage, {
-    src: "../images/registerNow.png",
+    className: `col-12 d-flex align-items-center justify-content-center p-0 ${_styles_register_module_scss__WEBPACK_IMPORTED_MODULE_1__.imgCont}`
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_2__.StaticImage, {
+    src: "../images/registerBanner-small.JPG",
     alt: "banner",
-    className: "img-fluid",
-    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/2677162913.json */ "./.cache/caches/gatsby-plugin-image/2677162913.json")
+    imgClassName: "img-fluid w-100",
+    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/3744560450.json */ "./.cache/caches/gatsby-plugin-image/3744560450.json")
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "col-md-4 col-12 d-flex align-items-center justify-content-center"
+    className: "col-md-6 col-lg-5 col-10 d-flex align-items-center justify-content-center position-absolute "
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("form", {
     className: "w-100 w-md-80 m-3 p-4 d-flex flex-column gap-4 justify-content-center"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h2", {
+    className: "text-white"
+  }, "Register Now")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     className: "d-flex flex-column gap-4 justify-content-center"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("input", {
     type: "text",
@@ -1532,18 +1538,27 @@ function Register() {
     name: "email",
     id: "",
     placeholder: "Your mail here",
-    className: "p-1 form-control border-0 shadow"
+    className: "p-1 form-control border-0 shadow",
+    style: {
+      color: "#e93323"
+    }
   }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("input", {
     type: "number",
     name: "phone",
     id: "",
     placeholder: "Your number here",
-    className: "p-1 form-control border-0 shadow"
+    className: "p-1 form-control border-0 shadow",
+    style: {
+      color: "#e93323"
+    }
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "align-self-end"
+    className: "align-self-start"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("button", {
     type: "submit",
-    className: "btn btn-dark shadow"
+    className: "btn text-white shadow",
+    style: {
+      backgroundColor: "#e93323"
+    }
   }, "Submit")))));
 }
 
@@ -1567,25 +1582,30 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
+const shopBtn = {
+  color: "#f4e502",
+  borderColor: "#f4e502"
+};
 function Shop() {
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: `${_styles_shop_module_scss__WEBPACK_IMPORTED_MODULE_1__.wrapper} bg-danger container-fluid py-md-0 py-3 mt-5`
+    className: `${_styles_shop_module_scss__WEBPACK_IMPORTED_MODULE_1__.wrapper} container-fluid py-md-0 py-3 bg-black my-2`
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "row h-100"
+    className: "row h-100 py-5"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "col-md-6"
+    className: "col-md-8"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_2__.StaticImage, {
-    src: "../images/hoodie.png",
+    src: "../images/shop-img-dark-bg-bt-small.png",
     alt: "hoodie",
-    className: "img-fluid ",
-    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/2215780484.json */ "./.cache/caches/gatsby-plugin-image/2215780484.json")
+    imgClassName: "img-fluid ",
+    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/2874089074.json */ "./.cache/caches/gatsby-plugin-image/2874089074.json")
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "col-md-6 bg-black"
+    className: "col-md-4"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
     href: "https://www.google.com/"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("button", {
     type: "button",
-    className: "text-white px-3 px-md-5"
+    className: "btn fw-bold fs-2 p-3 px-5 rounded-pill",
+    style: shopBtn
   }, "Shop Now")))));
 }
 
@@ -1604,22 +1624,23 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _assets_video_myvideo_mp4__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../assets/video/myvideo.mp4 */ "./src/assets/video/myvideo.mp4");
-/* harmony import */ var _styles_video_module_scss__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../styles/video.module.scss */ "./src/styles/video.module.scss");
+/* harmony import */ var _styles_video_module_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../styles/video.module.scss */ "./src/styles/video.module.scss");
 
-
+// import videoBg from "../assets/video/myvideo.mp4"
 
 function Video() {
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: `${_styles_video_module_scss__WEBPACK_IMPORTED_MODULE_2__.videoWrapper}`
+    className: `${_styles_video_module_scss__WEBPACK_IMPORTED_MODULE_1__.videoWrapper}`
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("video", {
     loop: true,
     autoPlay: true,
     muted: true,
-    className: _styles_video_module_scss__WEBPACK_IMPORTED_MODULE_2__.videoEle
+    className: _styles_video_module_scss__WEBPACK_IMPORTED_MODULE_1__.videoEle
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("source", {
-    // src="https://ik.imagekit.io/uexzh6xkp/myVideo.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1672752833711"
-    src: _assets_video_myvideo_mp4__WEBPACK_IMPORTED_MODULE_1__["default"],
+    src: "https://ik.imagekit.io/uexzh6xkp/myVideo.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1672752833711"
+    // src="#"
+    // src={videoBg}
+    ,
     type: "video/mp4"
   }), "Video not supported by your browser."));
 }
@@ -1698,26 +1719,26 @@ __webpack_require__.r(__webpack_exports__);
 
 function Logobar() {
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement("div", {
-    className: "container-fluid position-relative bg-dark"
+    className: "container-fluid position-relative"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement("div", {
     className: "row text-center"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement("div", {
-    className: `col-auto bg-light mx-auto d-flex justify-content-center align-items-center ${_styles_logobar_module_scss__WEBPACK_IMPORTED_MODULE_2__.logoContainer}`
+    className: `col-auto mx-auto d-flex justify-content-center align-items-center ${_styles_logobar_module_scss__WEBPACK_IMPORTED_MODULE_2__.logoContainer}`
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_3__.StaticImage, {
-    src: "../images/logo.png",
+    src: "../images/modball run logo balck.png",
     alt: "logo",
-    className: "img-fluid",
-    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/3741423757.json */ "./.cache/caches/gatsby-plugin-image/3741423757.json")
+    className: "",
+    imgClassName: "img-fluid",
+    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/4224292492.json */ "./.cache/caches/gatsby-plugin-image/4224292492.json")
   }))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement("div", {
-    className: "row position-absolute w-100"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement("div", {
-    className: `${_styles_logobar_module_scss__WEBPACK_IMPORTED_MODULE_2__.flag} col-12 p-0`
+    className: `row position-absolute w-100 ${_styles_logobar_module_scss__WEBPACK_IMPORTED_MODULE_2__.flag}`
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_3__.StaticImage, {
-    src: "../images/indiaFlag.png",
+    src: "../images/indiaFlag.svg",
     alt: "flag",
-    className: "img-fluid",
-    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/2556594343.json */ "./.cache/caches/gatsby-plugin-image/2556594343.json")
-  }))));
+    className: "",
+    imgClassName: "img-fluid",
+    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/1174459191.json */ "./.cache/caches/gatsby-plugin-image/1174459191.json")
+  })));
 }
 
 /***/ }),
@@ -1760,14 +1781,14 @@ const Navbar = ({
   siteTitle
 }) => {
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("nav", {
-    className: "navbar navbar-expand navbar-dark bg-dark"
+    className: "navbar navbar-expand navbar-light"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     className: "container-fluid"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     className: "collapse navbar-collapse",
     id: "main-navbar"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("ul", {
-    className: "navbar-nav me-auto mb-2 mb-md-0 d-flex w-100 justify-content-center gap-md-5 gap-2 py-3 px-md-5 bg-dark"
+    className: "navbar-nav me-auto mb-2 mb-md-0 d-flex w-100 justify-content-center gap-md-5 gap-2 py-3 px-md-5"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("li", {
     className: "nav-item text-center fw-bold"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(ExactNavLink, {
@@ -1775,15 +1796,16 @@ const Navbar = ({
   }, "Home")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("li", {
     className: "nav-item text-center fw-bold"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(ExactNavLink, {
-    to: "/about"
+    to: "/tour"
   }, "Tour")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("li", {
     className: "nav-item fw-bold text-center"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(ExactNavLink, {
     to: "/participant"
   }, "Participant")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("li", {
     className: "nav-item fw-bold text-center"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(ExactNavLink, {
-    to: "/shop"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
+    href: "https://www.modcrew.in",
+    className: "text-decoration-none"
   }, "Shop")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("li", {
     className: "nav-item fw-bold text-center"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(ExactNavLink, {
@@ -1887,10 +1909,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_seo__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/seo */ "./src/components/seo.js");
 /* harmony import */ var _components_Video__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/Video */ "./src/components/Video.js");
 /* harmony import */ var _components_Mapsection__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../components/Mapsection */ "./src/components/Mapsection.js");
-/* harmony import */ var _components_Shop__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../components/Shop */ "./src/components/Shop.js");
-/* harmony import */ var _components_Footer__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../components/Footer */ "./src/components/Footer.js");
-/* harmony import */ var _components_PhotoGallery__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../components/PhotoGallery */ "./src/components/PhotoGallery.js");
-/* harmony import */ var _components_Register__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../components/Register */ "./src/components/Register.js");
+/* harmony import */ var _components_PhotoGallery__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../components/PhotoGallery */ "./src/components/PhotoGallery.js");
+/* harmony import */ var _components_Shop__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../components/Shop */ "./src/components/Shop.js");
+/* harmony import */ var _components_Register__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../components/Register */ "./src/components/Register.js");
+/* harmony import */ var _components_Footer__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../components/Footer */ "./src/components/Footer.js");
 
 // import { Link } from "gatsby"
 // import { StaticImage } from "gatsby-plugin-image"
@@ -1903,9 +1925,11 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-const IndexPage = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(react__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_layout__WEBPACK_IMPORTED_MODULE_1__["default"], null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_Video__WEBPACK_IMPORTED_MODULE_3__["default"], null)), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_Mapsection__WEBPACK_IMPORTED_MODULE_4__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_PhotoGallery__WEBPACK_IMPORTED_MODULE_7__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_Shop__WEBPACK_IMPORTED_MODULE_5__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
+const IndexPage = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(react__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_layout__WEBPACK_IMPORTED_MODULE_1__["default"], null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_Video__WEBPACK_IMPORTED_MODULE_3__["default"], null)), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_Mapsection__WEBPACK_IMPORTED_MODULE_4__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_PhotoGallery__WEBPACK_IMPORTED_MODULE_5__["default"], {
+  wrapperClasses: "justify-content-between"
+}), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_Shop__WEBPACK_IMPORTED_MODULE_6__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
   className: "container-fluid"
-}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_Register__WEBPACK_IMPORTED_MODULE_8__["default"], null)), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_Footer__WEBPACK_IMPORTED_MODULE_6__["default"], null));
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_Register__WEBPACK_IMPORTED_MODULE_7__["default"], null)), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_Footer__WEBPACK_IMPORTED_MODULE_8__["default"], null));
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (IndexPage);
 const Head = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_seo__WEBPACK_IMPORTED_MODULE_2__.Seo, null);
 {
@@ -1951,62 +1975,135 @@ const Head = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement
 
 /***/ }),
 
-/***/ "./src/assets/video/myvideo.mp4":
-/*!**************************************!*\
-  !*** ./src/assets/video/myvideo.mp4 ***!
-  \**************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+/***/ "./.cache/caches/gatsby-plugin-image/114795751.json":
+/*!**********************************************************!*\
+  !*** ./.cache/caches/gatsby-plugin-image/114795751.json ***!
+  \**********************************************************/
+/***/ ((module) => {
 
 "use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "static/myvideo-a8903c01090eba13f0c2327034e5bf46.mp4");
+module.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#e80808","images":{"fallback":{"src":"/static/a1cc6d6c04cfd12be95b4d13cd881bfe/ccc41/youtube.png","srcSet":"/static/a1cc6d6c04cfd12be95b4d13cd881bfe/bf8e1/youtube.png 128w,\\n/static/a1cc6d6c04cfd12be95b4d13cd881bfe/acb7c/youtube.png 256w,\\n/static/a1cc6d6c04cfd12be95b4d13cd881bfe/ccc41/youtube.png 512w","sizes":"(min-width: 512px) 512px, 100vw"},"sources":[{"srcSet":"/static/a1cc6d6c04cfd12be95b4d13cd881bfe/6766a/youtube.webp 128w,\\n/static/a1cc6d6c04cfd12be95b4d13cd881bfe/22bfc/youtube.webp 256w,\\n/static/a1cc6d6c04cfd12be95b4d13cd881bfe/d689f/youtube.webp 512w","type":"image/webp","sizes":"(min-width: 512px) 512px, 100vw"}]},"width":512,"height":512}');
 
 /***/ }),
 
-/***/ "./.cache/caches/gatsby-plugin-image/2215780484.json":
+/***/ "./.cache/caches/gatsby-plugin-image/1174459191.json":
 /*!***********************************************************!*\
-  !*** ./.cache/caches/gatsby-plugin-image/2215780484.json ***!
+  !*** ./.cache/caches/gatsby-plugin-image/1174459191.json ***!
   \***********************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#f8f8f8","images":{"fallback":{"src":"/static/81097d52247a1b4d39e2b0f763ef7d69/73fc9/hoodie.png","srcSet":"/static/81097d52247a1b4d39e2b0f763ef7d69/800ab/hoodie.png 119w,\\n/static/81097d52247a1b4d39e2b0f763ef7d69/0fb78/hoodie.png 239w,\\n/static/81097d52247a1b4d39e2b0f763ef7d69/73fc9/hoodie.png 477w","sizes":"(min-width: 477px) 477px, 100vw"},"sources":[{"srcSet":"/static/81097d52247a1b4d39e2b0f763ef7d69/c0177/hoodie.webp 119w,\\n/static/81097d52247a1b4d39e2b0f763ef7d69/6686c/hoodie.webp 239w,\\n/static/81097d52247a1b4d39e2b0f763ef7d69/f7487/hoodie.webp 477w","type":"image/webp","sizes":"(min-width: 477px) 477px, 100vw"}]},"width":477,"height":641}');
+module.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#f8f8f8","images":{"fallback":{"src":"/static/6f4c09afe1dece7ede104132e19efa2a/a605f/indiaFlag.svg","srcSet":"/static/6f4c09afe1dece7ede104132e19efa2a/ea66d/indiaFlag.svg 13w,\\n/static/6f4c09afe1dece7ede104132e19efa2a/8f5df/indiaFlag.svg 26w,\\n/static/6f4c09afe1dece7ede104132e19efa2a/a605f/indiaFlag.svg 52w","sizes":"(min-width: 52px) 52px, 100vw"},"sources":[{"srcSet":"/static/6f4c09afe1dece7ede104132e19efa2a/f53a3/indiaFlag.webp 13w,\\n/static/6f4c09afe1dece7ede104132e19efa2a/1bdd1/indiaFlag.webp 26w,\\n/static/6f4c09afe1dece7ede104132e19efa2a/2090e/indiaFlag.webp 52w","type":"image/webp","sizes":"(min-width: 52px) 52px, 100vw"}]},"width":52,"height":9}');
 
 /***/ }),
 
-/***/ "./.cache/caches/gatsby-plugin-image/2556594343.json":
+/***/ "./.cache/caches/gatsby-plugin-image/1334188431.json":
 /*!***********************************************************!*\
-  !*** ./.cache/caches/gatsby-plugin-image/2556594343.json ***!
+  !*** ./.cache/caches/gatsby-plugin-image/1334188431.json ***!
   \***********************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#f8f8f8","images":{"fallback":{"src":"/static/e40d41020bfca86072ab1cbdc10d1c2e/bcd39/indiaFlag.png","srcSet":"/static/e40d41020bfca86072ab1cbdc10d1c2e/55fa0/indiaFlag.png 11w,\\n/static/e40d41020bfca86072ab1cbdc10d1c2e/02e4d/indiaFlag.png 21w,\\n/static/e40d41020bfca86072ab1cbdc10d1c2e/bcd39/indiaFlag.png 42w","sizes":"(min-width: 42px) 42px, 100vw"},"sources":[{"srcSet":"/static/e40d41020bfca86072ab1cbdc10d1c2e/503e4/indiaFlag.webp 11w,\\n/static/e40d41020bfca86072ab1cbdc10d1c2e/efae9/indiaFlag.webp 21w,\\n/static/e40d41020bfca86072ab1cbdc10d1c2e/15536/indiaFlag.webp 42w","type":"image/webp","sizes":"(min-width: 42px) 42px, 100vw"}]},"width":42,"height":10}');
+module.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#080808","images":{"fallback":{"src":"/static/fe611a31f66c878ebf0b310365e03a89/e49ee/DSC08083.jpg","srcSet":"/static/fe611a31f66c878ebf0b310365e03a89/3564b/DSC08083.jpg 1500w,\\n/static/fe611a31f66c878ebf0b310365e03a89/8a549/DSC08083.jpg 3000w,\\n/static/fe611a31f66c878ebf0b310365e03a89/e49ee/DSC08083.jpg 6000w","sizes":"(min-width: 6000px) 6000px, 100vw"},"sources":[{"srcSet":"/static/fe611a31f66c878ebf0b310365e03a89/2b8d7/DSC08083.webp 1500w,\\n/static/fe611a31f66c878ebf0b310365e03a89/48dc9/DSC08083.webp 3000w,\\n/static/fe611a31f66c878ebf0b310365e03a89/5de91/DSC08083.webp 6000w","type":"image/webp","sizes":"(min-width: 6000px) 6000px, 100vw"}]},"width":6000,"height":4000}');
 
 /***/ }),
 
-/***/ "./.cache/caches/gatsby-plugin-image/2677162913.json":
+/***/ "./.cache/caches/gatsby-plugin-image/2673816561.json":
 /*!***********************************************************!*\
-  !*** ./.cache/caches/gatsby-plugin-image/2677162913.json ***!
+  !*** ./.cache/caches/gatsby-plugin-image/2673816561.json ***!
   \***********************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#080808","images":{"fallback":{"src":"/static/1efc77283fad06a3dd82f9a52fb27142/02012/registerNow.png","srcSet":"/static/1efc77283fad06a3dd82f9a52fb27142/95b9c/registerNow.png 449w,\\n/static/1efc77283fad06a3dd82f9a52fb27142/c103d/registerNow.png 898w,\\n/static/1efc77283fad06a3dd82f9a52fb27142/02012/registerNow.png 1795w","sizes":"(min-width: 1795px) 1795px, 100vw"},"sources":[{"srcSet":"/static/1efc77283fad06a3dd82f9a52fb27142/3be33/registerNow.webp 449w,\\n/static/1efc77283fad06a3dd82f9a52fb27142/9e3ed/registerNow.webp 898w,\\n/static/1efc77283fad06a3dd82f9a52fb27142/9c65e/registerNow.webp 1795w","type":"image/webp","sizes":"(min-width: 1795px) 1795px, 100vw"}]},"width":1795,"height":417}');
+module.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#1878d8","images":{"fallback":{"src":"/static/021ada146ffb7c1753557ff29618d04c/ccc41/facebook.png","srcSet":"/static/021ada146ffb7c1753557ff29618d04c/bf8e1/facebook.png 128w,\\n/static/021ada146ffb7c1753557ff29618d04c/acb7c/facebook.png 256w,\\n/static/021ada146ffb7c1753557ff29618d04c/ccc41/facebook.png 512w","sizes":"(min-width: 512px) 512px, 100vw"},"sources":[{"srcSet":"/static/021ada146ffb7c1753557ff29618d04c/6766a/facebook.webp 128w,\\n/static/021ada146ffb7c1753557ff29618d04c/22bfc/facebook.webp 256w,\\n/static/021ada146ffb7c1753557ff29618d04c/d689f/facebook.webp 512w","type":"image/webp","sizes":"(min-width: 512px) 512px, 100vw"}]},"width":512,"height":512}');
 
 /***/ }),
 
-/***/ "./.cache/caches/gatsby-plugin-image/3741423757.json":
+/***/ "./.cache/caches/gatsby-plugin-image/2874089074.json":
 /*!***********************************************************!*\
-  !*** ./.cache/caches/gatsby-plugin-image/3741423757.json ***!
+  !*** ./.cache/caches/gatsby-plugin-image/2874089074.json ***!
   \***********************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#080808","images":{"fallback":{"src":"/static/067eb6430c4126bf7b8e11cfff561d6b/682af/logo.png","srcSet":"/static/067eb6430c4126bf7b8e11cfff561d6b/2bcf2/logo.png 21w,\\n/static/067eb6430c4126bf7b8e11cfff561d6b/a3d9b/logo.png 41w,\\n/static/067eb6430c4126bf7b8e11cfff561d6b/682af/logo.png 82w","sizes":"(min-width: 82px) 82px, 100vw"},"sources":[{"srcSet":"/static/067eb6430c4126bf7b8e11cfff561d6b/5f97e/logo.webp 21w,\\n/static/067eb6430c4126bf7b8e11cfff561d6b/53ad7/logo.webp 41w,\\n/static/067eb6430c4126bf7b8e11cfff561d6b/5f6c5/logo.webp 82w","type":"image/webp","sizes":"(min-width: 82px) 82px, 100vw"}]},"width":82,"height":75}');
+module.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#080808","images":{"fallback":{"src":"/static/aef6ee96cf3e8cc829982edc81ab5694/6f08b/shop-img-dark-bg-bt-small.png","srcSet":"/static/aef6ee96cf3e8cc829982edc81ab5694/94f7d/shop-img-dark-bg-bt-small.png 2376w,\\n/static/aef6ee96cf3e8cc829982edc81ab5694/3a255/shop-img-dark-bg-bt-small.png 4752w,\\n/static/aef6ee96cf3e8cc829982edc81ab5694/6f08b/shop-img-dark-bg-bt-small.png 9504w","sizes":"(min-width: 9504px) 9504px, 100vw"},"sources":[{"srcSet":"/static/aef6ee96cf3e8cc829982edc81ab5694/2848a/shop-img-dark-bg-bt-small.webp 2376w,\\n/static/aef6ee96cf3e8cc829982edc81ab5694/15ec5/shop-img-dark-bg-bt-small.webp 4752w,\\n/static/aef6ee96cf3e8cc829982edc81ab5694/7c2fa/shop-img-dark-bg-bt-small.webp 9504w","type":"image/webp","sizes":"(min-width: 9504px) 9504px, 100vw"}]},"width":9504,"height":5207}');
+
+/***/ }),
+
+/***/ "./.cache/caches/gatsby-plugin-image/3050722743.json":
+/*!***********************************************************!*\
+  !*** ./.cache/caches/gatsby-plugin-image/3050722743.json ***!
+  \***********************************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#080808","images":{"fallback":{"src":"/static/8290266a5fb402a34b96f890bbdb2d60/ccc41/instagram.png","srcSet":"/static/8290266a5fb402a34b96f890bbdb2d60/bf8e1/instagram.png 128w,\\n/static/8290266a5fb402a34b96f890bbdb2d60/acb7c/instagram.png 256w,\\n/static/8290266a5fb402a34b96f890bbdb2d60/ccc41/instagram.png 512w","sizes":"(min-width: 512px) 512px, 100vw"},"sources":[{"srcSet":"/static/8290266a5fb402a34b96f890bbdb2d60/6766a/instagram.webp 128w,\\n/static/8290266a5fb402a34b96f890bbdb2d60/22bfc/instagram.webp 256w,\\n/static/8290266a5fb402a34b96f890bbdb2d60/d689f/instagram.webp 512w","type":"image/webp","sizes":"(min-width: 512px) 512px, 100vw"}]},"width":512,"height":512}');
+
+/***/ }),
+
+/***/ "./.cache/caches/gatsby-plugin-image/367343736.json":
+/*!**********************************************************!*\
+  !*** ./.cache/caches/gatsby-plugin-image/367343736.json ***!
+  \**********************************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#f8f8f8","images":{"fallback":{"src":"/static/2934c93b9e98c682bacdc503848068a5/a8b52/modball%20run%20logo%20white.png","srcSet":"/static/2934c93b9e98c682bacdc503848068a5/53973/modball%20run%20logo%20white.png 30w,\\n/static/2934c93b9e98c682bacdc503848068a5/7ab40/modball%20run%20logo%20white.png 60w,\\n/static/2934c93b9e98c682bacdc503848068a5/a8b52/modball%20run%20logo%20white.png 120w,\\n/static/2934c93b9e98c682bacdc503848068a5/87351/modball%20run%20logo%20white.png 240w","sizes":"(min-width: 120px) 120px, 100vw"},"sources":[{"srcSet":"/static/2934c93b9e98c682bacdc503848068a5/bde72/modball%20run%20logo%20white.webp 30w,\\n/static/2934c93b9e98c682bacdc503848068a5/927d1/modball%20run%20logo%20white.webp 60w,\\n/static/2934c93b9e98c682bacdc503848068a5/507b0/modball%20run%20logo%20white.webp 120w,\\n/static/2934c93b9e98c682bacdc503848068a5/8d565/modball%20run%20logo%20white.webp 240w","type":"image/webp","sizes":"(min-width: 120px) 120px, 100vw"}]},"width":120,"height":120}');
+
+/***/ }),
+
+/***/ "./.cache/caches/gatsby-plugin-image/3744560450.json":
+/*!***********************************************************!*\
+  !*** ./.cache/caches/gatsby-plugin-image/3744560450.json ***!
+  \***********************************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#080808","images":{"fallback":{"src":"/static/d6f93bcbe8f52eba8b5908ef9fcf16a3/05f7d/registerBanner-small.jpg","srcSet":"/static/d6f93bcbe8f52eba8b5908ef9fcf16a3/e1cbc/registerBanner-small.jpg 1500w,\\n/static/d6f93bcbe8f52eba8b5908ef9fcf16a3/ebc0c/registerBanner-small.jpg 3000w,\\n/static/d6f93bcbe8f52eba8b5908ef9fcf16a3/05f7d/registerBanner-small.jpg 6000w","sizes":"(min-width: 6000px) 6000px, 100vw"},"sources":[{"srcSet":"/static/d6f93bcbe8f52eba8b5908ef9fcf16a3/58a8a/registerBanner-small.webp 1500w,\\n/static/d6f93bcbe8f52eba8b5908ef9fcf16a3/01fc0/registerBanner-small.webp 3000w,\\n/static/d6f93bcbe8f52eba8b5908ef9fcf16a3/612fe/registerBanner-small.webp 6000w","type":"image/webp","sizes":"(min-width: 6000px) 6000px, 100vw"}]},"width":6000,"height":2456}');
+
+/***/ }),
+
+/***/ "./.cache/caches/gatsby-plugin-image/3963331822.json":
+/*!***********************************************************!*\
+  !*** ./.cache/caches/gatsby-plugin-image/3963331822.json ***!
+  \***********************************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#080808","images":{"fallback":{"src":"/static/222766e581072f33e4f89483a2c94b9a/e49ee/DSC08189.jpg","srcSet":"/static/222766e581072f33e4f89483a2c94b9a/3564b/DSC08189.jpg 1500w,\\n/static/222766e581072f33e4f89483a2c94b9a/8a549/DSC08189.jpg 3000w,\\n/static/222766e581072f33e4f89483a2c94b9a/e49ee/DSC08189.jpg 6000w","sizes":"(min-width: 6000px) 6000px, 100vw"},"sources":[{"srcSet":"/static/222766e581072f33e4f89483a2c94b9a/2b8d7/DSC08189.webp 1500w,\\n/static/222766e581072f33e4f89483a2c94b9a/48dc9/DSC08189.webp 3000w,\\n/static/222766e581072f33e4f89483a2c94b9a/5de91/DSC08189.webp 6000w","type":"image/webp","sizes":"(min-width: 6000px) 6000px, 100vw"}]},"width":6000,"height":4000}');
+
+/***/ }),
+
+/***/ "./.cache/caches/gatsby-plugin-image/4223391110.json":
+/*!***********************************************************!*\
+  !*** ./.cache/caches/gatsby-plugin-image/4223391110.json ***!
+  \***********************************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#080808","images":{"fallback":{"src":"/static/d961fc79e0ac8a2f3dc7f6bf817eca70/ccc41/right.png","srcSet":"/static/d961fc79e0ac8a2f3dc7f6bf817eca70/bf8e1/right.png 128w,\\n/static/d961fc79e0ac8a2f3dc7f6bf817eca70/acb7c/right.png 256w,\\n/static/d961fc79e0ac8a2f3dc7f6bf817eca70/ccc41/right.png 512w","sizes":"(min-width: 512px) 512px, 100vw"},"sources":[{"srcSet":"/static/d961fc79e0ac8a2f3dc7f6bf817eca70/6766a/right.webp 128w,\\n/static/d961fc79e0ac8a2f3dc7f6bf817eca70/22bfc/right.webp 256w,\\n/static/d961fc79e0ac8a2f3dc7f6bf817eca70/d689f/right.webp 512w","type":"image/webp","sizes":"(min-width: 512px) 512px, 100vw"}]},"width":512,"height":512}');
+
+/***/ }),
+
+/***/ "./.cache/caches/gatsby-plugin-image/4224292492.json":
+/*!***********************************************************!*\
+  !*** ./.cache/caches/gatsby-plugin-image/4224292492.json ***!
+  \***********************************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#080808","images":{"fallback":{"src":"/static/a4e74157a814c9e0420faa8b6019af95/b5658/modball%20run%20logo%20balck.png","srcSet":"/static/a4e74157a814c9e0420faa8b6019af95/acb7c/modball%20run%20logo%20balck.png 256w,\\n/static/a4e74157a814c9e0420faa8b6019af95/ccc41/modball%20run%20logo%20balck.png 512w,\\n/static/a4e74157a814c9e0420faa8b6019af95/b5658/modball%20run%20logo%20balck.png 1024w","sizes":"(min-width: 1024px) 1024px, 100vw"},"sources":[{"srcSet":"/static/a4e74157a814c9e0420faa8b6019af95/22bfc/modball%20run%20logo%20balck.webp 256w,\\n/static/a4e74157a814c9e0420faa8b6019af95/d689f/modball%20run%20logo%20balck.webp 512w,\\n/static/a4e74157a814c9e0420faa8b6019af95/67ded/modball%20run%20logo%20balck.webp 1024w","type":"image/webp","sizes":"(min-width: 1024px) 1024px, 100vw"}]},"width":1024,"height":1024}');
+
+/***/ }),
+
+/***/ "./.cache/caches/gatsby-plugin-image/4290697879.json":
+/*!***********************************************************!*\
+  !*** ./.cache/caches/gatsby-plugin-image/4290697879.json ***!
+  \***********************************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#181818","images":{"fallback":{"src":"/static/3e9aace73991358134a3c89b91e62dfd/e49ee/DSC08076.jpg","srcSet":"/static/3e9aace73991358134a3c89b91e62dfd/3564b/DSC08076.jpg 1500w,\\n/static/3e9aace73991358134a3c89b91e62dfd/8a549/DSC08076.jpg 3000w,\\n/static/3e9aace73991358134a3c89b91e62dfd/e49ee/DSC08076.jpg 6000w","sizes":"(min-width: 6000px) 6000px, 100vw"},"sources":[{"srcSet":"/static/3e9aace73991358134a3c89b91e62dfd/2b8d7/DSC08076.webp 1500w,\\n/static/3e9aace73991358134a3c89b91e62dfd/48dc9/DSC08076.webp 3000w,\\n/static/3e9aace73991358134a3c89b91e62dfd/5de91/DSC08076.webp 6000w","type":"image/webp","sizes":"(min-width: 6000px) 6000px, 100vw"}]},"width":6000,"height":4000}');
 
 /***/ }),
 

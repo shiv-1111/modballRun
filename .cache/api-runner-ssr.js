@@ -5,7 +5,7 @@ var plugins = [{
     },{
       name: 'gatsby-plugin-manifest',
       plugin: require('C:/Users/shiva/Desktop/trd projects/modball/node_modules/gatsby-plugin-manifest/gatsby-ssr.js'),
-      options: {"plugins":[],"name":"gatsby-starter-bootstrap-5","short_name":"gb5-starter","start_url":"/","background_color":"#663399","theme_color":"#663399","display":"standalone","icon":"src/images/gatsby-icon.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"4a9773549091c227cd2eb82ccd9c5e3a"},
+      options: {"plugins":[],"name":"gatsby-starter-bootstrap-5","short_name":"gb5-starter","start_url":"/","background_color":"#663399","theme_color":"#663399","display":"standalone","icon":"src/images/logo.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"067eb6430c4126bf7b8e11cfff561d6b"},
     },{
       name: 'gatsby-plugin-gatsby-cloud',
       plugin: require('C:/Users/shiva/Desktop/trd projects/modball/node_modules/gatsby-plugin-gatsby-cloud/gatsby-ssr.js'),

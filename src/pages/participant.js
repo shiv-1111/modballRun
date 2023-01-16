@@ -1,7 +1,7 @@
 import React from "react"
-import * as styles from "../styles/participant.module.scss"
+// import * as styles from "../styles/participant.module.scss"
 import Layout from "../components/layout"
-// import { StaticImage } from "gatsby-plugin-image"
+import { StaticImage } from "gatsby-plugin-image"
 import ParticipantBar from "../components/ParticipantBar"
 import ManagementCard from "../components/ManagementCard"
 import Footer from "../components/Footer"
@@ -60,16 +60,17 @@ export default function participant() {
   return (
     <>
       <Layout className="bg-light">
-        <div className={`container-fluid ${styles.imgContainer}`}>
-          {/* <StaticImage
-            src="../images/participantBanner.jpeg"
+        <div className={`container-fluid p-0`}>
+          <StaticImage
+            src="../images/participantBanner.jpg"
             alt="banner img"
+            className="p-0 w-100"
             formats={["AUTO", "WEBP"]}
-            className="img-fluid h-100"
-          /> */}
+            imgClassName="img-fluid"
+          />
         </div>
       </Layout>
-      <div className="container-fluid">
+      <div className="container-fluid text-light bg-black">
         <h1 className="display-5 p-4 text-center text-uppercase">
           Participants
         </h1>
@@ -88,7 +89,7 @@ export default function participant() {
           )
         })}
       </div>
-      <div className="container-fluid">
+      <div className="container-fluid text-light bg-black">
         <h1 className="display-5 p-4 text-center text-uppercase">
           Connect with Management
         </h1>
@@ -96,15 +97,15 @@ export default function participant() {
       <div className="container-md container-fluid">
         <div className="row">
           <div className="col-12">
-            <ManagementCard classes="d-flex justify-content-center align-items-center gap-4 bg-primary text-white m-auto p-4 rounded shadow mb-4" />
+            <ManagementCard classes="d-flex justify-content-center align-items-center gap-4 bg-black text-white m-auto p-4 rounded shadow mb-4" />
           </div>
         </div>
         <div className="row justify-content-between">
           <div className="col-10 col-sm-6 m-auto">
-            <ManagementCard classes="d-flex justify-content-center align-items-center gap-4 bg-dark text-white p-4 rounded shadow mb-4" />
+            <ManagementCard classes="d-flex justify-content-center align-items-center gap-4 bg-black text-white p-4 rounded shadow mb-4" />
           </div>
           <div className="col-10 col-sm-6 m-auto">
-            <ManagementCard classes="d-flex justify-content-center align-items-center gap-4 bg-dark text-white p-4 rounded shadow mb-4" />
+            <ManagementCard classes="d-flex justify-content-center align-items-center gap-4 bg-black text-white p-4 rounded shadow mb-4" />
           </div>
           {/* <ManagementCard classes="col-3 d-flex justify-content-center align-items-center gap-4 bg-dark text-white p-4 rounded shadow mb-4" /> */}
         </div>

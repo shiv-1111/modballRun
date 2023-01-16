@@ -2,51 +2,6 @@ exports.id = "component---src-pages-participant-js";
 exports.ids = ["component---src-pages-participant-js"];
 exports.modules = {
 
-/***/ "./node_modules/@react-icons/all-files/ai/AiFillFacebook.js":
-/*!******************************************************************!*\
-  !*** ./node_modules/@react-icons/all-files/ai/AiFillFacebook.js ***!
-  \******************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-// THIS FILE IS AUTO GENERATED
-var GenIcon = (__webpack_require__(/*! ../lib */ "./node_modules/@react-icons/all-files/lib/esm/index.js").GenIcon)
-module.exports.AiFillFacebook = function AiFillFacebook (props) {
-  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 1024 1024"},"child":[{"tag":"path","attr":{"d":"M880 112H144c-17.7 0-32 14.3-32 32v736c0 17.7 14.3 32 32 32h736c17.7 0 32-14.3 32-32V144c0-17.7-14.3-32-32-32zm-92.4 233.5h-63.9c-50.1 0-59.8 23.8-59.8 58.8v77.1h119.6l-15.6 120.7h-104V912H539.2V602.2H434.9V481.4h104.3v-89c0-103.3 63.1-159.6 155.3-159.6 44.2 0 82.1 3.3 93.2 4.8v107.9z"}}]})(props);
-};
-
-
-/***/ }),
-
-/***/ "./node_modules/@react-icons/all-files/ai/AiFillInstagram.js":
-/*!*******************************************************************!*\
-  !*** ./node_modules/@react-icons/all-files/ai/AiFillInstagram.js ***!
-  \*******************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-// THIS FILE IS AUTO GENERATED
-var GenIcon = (__webpack_require__(/*! ../lib */ "./node_modules/@react-icons/all-files/lib/esm/index.js").GenIcon)
-module.exports.AiFillInstagram = function AiFillInstagram (props) {
-  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 1024 1024"},"child":[{"tag":"path","attr":{"d":"M512 378.7c-73.4 0-133.3 59.9-133.3 133.3S438.6 645.3 512 645.3 645.3 585.4 645.3 512 585.4 378.7 512 378.7zM911.8 512c0-55.2.5-109.9-2.6-165-3.1-64-17.7-120.8-64.5-167.6-46.9-46.9-103.6-61.4-167.6-64.5-55.2-3.1-109.9-2.6-165-2.6-55.2 0-109.9-.5-165 2.6-64 3.1-120.8 17.7-167.6 64.5C132.6 226.3 118.1 283 115 347c-3.1 55.2-2.6 109.9-2.6 165s-.5 109.9 2.6 165c3.1 64 17.7 120.8 64.5 167.6 46.9 46.9 103.6 61.4 167.6 64.5 55.2 3.1 109.9 2.6 165 2.6 55.2 0 109.9.5 165-2.6 64-3.1 120.8-17.7 167.6-64.5 46.9-46.9 61.4-103.6 64.5-167.6 3.2-55.1 2.6-109.8 2.6-165zM512 717.1c-113.5 0-205.1-91.6-205.1-205.1S398.5 306.9 512 306.9 717.1 398.5 717.1 512 625.5 717.1 512 717.1zm213.5-370.7c-26.5 0-47.9-21.4-47.9-47.9s21.4-47.9 47.9-47.9 47.9 21.4 47.9 47.9a47.84 47.84 0 0 1-47.9 47.9z"}}]})(props);
-};
-
-
-/***/ }),
-
-/***/ "./node_modules/@react-icons/all-files/ai/AiFillYoutube.js":
-/*!*****************************************************************!*\
-  !*** ./node_modules/@react-icons/all-files/ai/AiFillYoutube.js ***!
-  \*****************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-// THIS FILE IS AUTO GENERATED
-var GenIcon = (__webpack_require__(/*! ../lib */ "./node_modules/@react-icons/all-files/lib/esm/index.js").GenIcon)
-module.exports.AiFillYoutube = function AiFillYoutube (props) {
-  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 1024 1024"},"child":[{"tag":"path","attr":{"d":"M941.3 296.1a112.3 112.3 0 0 0-79.2-79.3C792.2 198 512 198 512 198s-280.2 0-350.1 18.7A112.12 112.12 0 0 0 82.7 296C64 366 64 512 64 512s0 146 18.7 215.9c10.3 38.6 40.7 69 79.2 79.3C231.8 826 512 826 512 826s280.2 0 350.1-18.8c38.6-10.3 68.9-40.7 79.2-79.3C960 658 960 512 960 512s0-146-18.7-215.9zM423 646V378l232 133-232 135z"}}]})(props);
-};
-
-
-/***/ }),
-
 /***/ "./node_modules/@react-icons/all-files/ai/AiOutlineMail.js":
 /*!*****************************************************************!*\
   !*** ./node_modules/@react-icons/all-files/ai/AiOutlineMail.js ***!
@@ -57,21 +12,6 @@ module.exports.AiFillYoutube = function AiFillYoutube (props) {
 var GenIcon = (__webpack_require__(/*! ../lib */ "./node_modules/@react-icons/all-files/lib/esm/index.js").GenIcon)
 module.exports.AiOutlineMail = function AiOutlineMail (props) {
   return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 1024 1024"},"child":[{"tag":"path","attr":{"d":"M928 160H96c-17.7 0-32 14.3-32 32v640c0 17.7 14.3 32 32 32h832c17.7 0 32-14.3 32-32V192c0-17.7-14.3-32-32-32zm-40 110.8V792H136V270.8l-27.6-21.5 39.3-50.5 42.8 33.3h643.1l42.8-33.3 39.3 50.5-27.7 21.5zM833.6 232L512 482 190.4 232l-42.8-33.3-39.3 50.5 27.6 21.5 341.6 265.6a55.99 55.99 0 0 0 68.7 0L888 270.8l27.6-21.5-39.3-50.5-42.7 33.2z"}}]})(props);
-};
-
-
-/***/ }),
-
-/***/ "./node_modules/@react-icons/all-files/fa/FaArrowLeft.js":
-/*!***************************************************************!*\
-  !*** ./node_modules/@react-icons/all-files/fa/FaArrowLeft.js ***!
-  \***************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-// THIS FILE IS AUTO GENERATED
-var GenIcon = (__webpack_require__(/*! ../lib */ "./node_modules/@react-icons/all-files/lib/esm/index.js").GenIcon)
-module.exports.FaArrowLeft = function FaArrowLeft (props) {
-  return GenIcon({"tag":"svg","attr":{"viewBox":"0 0 448 512"},"child":[{"tag":"path","attr":{"d":"M257.5 445.1l-22.2 22.2c-9.4 9.4-24.6 9.4-33.9 0L7 273c-9.4-9.4-9.4-24.6 0-33.9L201.4 44.7c9.4-9.4 24.6-9.4 33.9 0l22.2 22.2c9.5 9.5 9.3 25-.4 34.3L136.6 216H424c13.3 0 24 10.7 24 24v32c0 13.3-10.7 24-24 24H136.6l120.5 114.8c9.8 9.3 10 24.8.4 34.3z"}}]})(props);
 };
 
 
@@ -490,12 +430,10 @@ module.exports["default"] = camelCase;
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "footer": () => (/* binding */ footer),
-/* harmony export */   "imgCont": () => (/* binding */ imgCont)
+/* harmony export */   "footer": () => (/* binding */ footer)
 /* harmony export */ });
 // Exports
 var footer = "footer-module--footer--02543";
-var imgCont = "footer-module--imgCont--b184e";
 
 
 /***/ }),
@@ -534,23 +472,6 @@ __webpack_require__.r(__webpack_exports__);
 // Exports
 var logoContainer = "logobar-module--logoContainer--804b6";
 var flag = "logobar-module--flag--69ba0";
-
-
-/***/ }),
-
-/***/ "./src/styles/participant.module.scss":
-/*!********************************************!*\
-  !*** ./src/styles/participant.module.scss ***!
-  \********************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "imgContainer": () => (/* binding */ imgContainer)
-/* harmony export */ });
-// Exports
-var imgContainer = "participant-module--imgContainer--3b013";
 
 
 /***/ }),
@@ -1278,28 +1199,24 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _styles_footer_module_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../styles/footer.module.scss */ "./src/styles/footer.module.scss");
 /* harmony import */ var gatsby__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! gatsby */ "./.cache/gatsby-browser-entry.js");
-/* harmony import */ var _react_icons_all_files_ai_AiFillInstagram__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @react-icons/all-files/ai/AiFillInstagram */ "./node_modules/@react-icons/all-files/ai/AiFillInstagram.js");
-/* harmony import */ var _react_icons_all_files_ai_AiFillFacebook__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @react-icons/all-files/ai/AiFillFacebook */ "./node_modules/@react-icons/all-files/ai/AiFillFacebook.js");
-/* harmony import */ var _react_icons_all_files_ai_AiFillYoutube__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @react-icons/all-files/ai/AiFillYoutube */ "./node_modules/@react-icons/all-files/ai/AiFillYoutube.js");
-/* harmony import */ var _react_icons_all_files_fa_FaArrowLeft__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @react-icons/all-files/fa/FaArrowLeft */ "./node_modules/@react-icons/all-files/fa/FaArrowLeft.js");
-/* harmony import */ var _react_icons_all_files_io_IoMdCall__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! @react-icons/all-files/io/IoMdCall */ "./node_modules/@react-icons/all-files/io/IoMdCall.js");
-/* harmony import */ var _react_icons_all_files_ai_AiOutlineMail__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! @react-icons/all-files/ai/AiOutlineMail */ "./node_modules/@react-icons/all-files/ai/AiOutlineMail.js");
-/* harmony import */ var gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! gatsby-plugin-image */ "./node_modules/gatsby-plugin-image/dist/gatsby-image.module.js");
+/* harmony import */ var _react_icons_all_files_io_IoMdCall__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @react-icons/all-files/io/IoMdCall */ "./node_modules/@react-icons/all-files/io/IoMdCall.js");
+/* harmony import */ var _react_icons_all_files_ai_AiOutlineMail__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @react-icons/all-files/ai/AiOutlineMail */ "./node_modules/@react-icons/all-files/ai/AiOutlineMail.js");
+/* harmony import */ var gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! gatsby-plugin-image */ "./node_modules/gatsby-plugin-image/dist/gatsby-image.module.js");
 
 
 
-
-
-
-
+// import { AiFillInstagram } from "@react-icons/all-files/ai/AiFillInstagram"
+// import { AiFillFacebook } from "@react-icons/all-files/ai/AiFillFacebook"
+// import { AiFillYoutube } from "@react-icons/all-files/ai/AiFillYoutube"
+// import { FaArrowLeft } from "@react-icons/all-files/fa/FaArrowLeft"
 
 
 
 function Footer() {
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("footer", {
-    className: `${_styles_footer_module_scss__WEBPACK_IMPORTED_MODULE_1__.footer} container-fluid justify-content-between`
+    className: `${_styles_footer_module_scss__WEBPACK_IMPORTED_MODULE_1__.footer} container-fluid my-2`
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "row px-1 px-md-5 py-3 gap-md-0 gap-3 bg-dark mb-2 "
+    className: "row px-1 px-md-5 py-4 mb-2 gap-md-0 gap-3 bg-black"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     className: "col-md-7 col-12"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("input", {
@@ -1308,33 +1225,54 @@ function Footer() {
     className: "rounded-pill px-4 shadow"
   }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("button", {
     type: "submit",
-    className: "shadow"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_react_icons_all_files_fa_FaArrowLeft__WEBPACK_IMPORTED_MODULE_3__.FaArrowLeft, null))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "col-md-5 col-12 d-flex justify-content-center gap-3"
+    className: "btn shadow"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_3__.StaticImage, {
+    src: "../images/right.png",
+    alt: "submit button image",
+    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/4223391110.json */ "./.cache/caches/gatsby-plugin-image/4223391110.json")
+  }))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "col-md-5 col-12 d-flex justify-content-end gap-4"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
     href: "https://www.instagram.com",
     className: "shadow"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_react_icons_all_files_ai_AiFillInstagram__WEBPACK_IMPORTED_MODULE_4__.AiFillInstagram, null)), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_3__.StaticImage, {
+    src: "../images/instagram.png",
+    alt: "instagram link img",
+    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/3050722743.json */ "./.cache/caches/gatsby-plugin-image/3050722743.json")
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
     href: "https://www.facebook.com",
     className: "shadow"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_react_icons_all_files_ai_AiFillFacebook__WEBPACK_IMPORTED_MODULE_5__.AiFillFacebook, null)), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_3__.StaticImage, {
+    src: "../images/facebook.png",
+    alt: "facebook link img",
+    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/2673816561.json */ "./.cache/caches/gatsby-plugin-image/2673816561.json")
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
     href: "https://www.youtube.com/",
     className: "shadow"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_react_icons_all_files_ai_AiFillYoutube__WEBPACK_IMPORTED_MODULE_6__.AiFillYoutube, null)))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "row justify-content-md-between justify-content-center align-items-center bg-dark"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_3__.StaticImage, {
+    src: "../images/youtube.png",
+    alt: "youtube link img",
+    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/114795751.json */ "./.cache/caches/gatsby-plugin-image/114795751.json")
+  })))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "row justify-content-md-between justify-content-center align-items-center bg-black"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "col-md-4 col-10 p-2 p-md-5 text-center"
+    className: "col-md-4 col-10 p-2 p-md-5 text-start"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "pb-5"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_7__.StaticImage, {
-    src: "../images/logo.png",
-    alt: "logo",
-    className: `${_styles_footer_module_scss__WEBPACK_IMPORTED_MODULE_1__.imgCont} text-white`,
-    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/3741423757.json */ "./.cache/caches/gatsby-plugin-image/3741423757.json")
+    className: "text-center"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_3__.StaticImage, {
+    src: "../images/modball run logo white.png",
+    alt: "logo"
+    // className={`${styles.imgCont}`}
+    ,
+    width: 120,
+    height: 120,
+    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/367343736.json */ "./.cache/caches/gatsby-plugin-image/367343736.json")
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
-    className: "text-light"
+    className: "text-light text-center"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("small", null, "Lorem ipsum dolor sit, amet consectetur adipisicing edivt. Sunt facidivs at consectetur saepe autem maxime expdivcabo adipisci amet iure animi."))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "col-md-4 col-10 p-2 p-md-5 d-flex justify-content-around gap-3 align-items-center text-justify flex-md-column"
+    className: "col-md-4 col-10 p-2 p-md-5 d-flex justify-content-around align-items-center text-justify"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "d-flex justify-content-around gap-3 align-items-start flex-md-column"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__.Link, {
     to: "/",
     className: "text-white text-decoration-none"
@@ -1350,22 +1288,26 @@ function Footer() {
   }, "Shop")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__.Link, {
     to: "/contact",
     className: "text-white text-decoration-none"
-  }, "Contact"))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "col-md-4 col-10 p-2 p-md-5 text-center d-flex align-items-center flex-md-column justify-content-around"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__.Link, {
+  }, "Contact")))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "col-md-4 col-10 p-2 p-md-5 text-center d-flex align-items-center flex-md-column justify-content-center"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "d-flex align-items-start flex-md-column justify-content-around gap-4"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__.Link, {
     to: "/contact",
-    className: "btn btn-light"
-  }, "Contact Us"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "py-4"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_react_icons_all_files_io_IoMdCall__WEBPACK_IMPORTED_MODULE_8__.IoMdCall, {
-    className: "text-white"
-  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
-    className: "text-white"
-  }, "+123456789"))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_react_icons_all_files_ai_AiOutlineMail__WEBPACK_IMPORTED_MODULE_9__.AiOutlineMail, {
+    className: "btn border-white text-white"
+  }, "Contact Us")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "d-flex gap-3"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_react_icons_all_files_ai_AiOutlineMail__WEBPACK_IMPORTED_MODULE_4__.AiOutlineMail, {
     className: "text-white"
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
     className: "text-white"
-  }, "modball@xyz.com")))));
+  }, "modball@xyz.com")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "d-flex gap-3"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_react_icons_all_files_io_IoMdCall__WEBPACK_IMPORTED_MODULE_5__.IoMdCall, {
+    className: "text-white"
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
+    className: "text-white"
+  }, "+123456789")))))));
 }
 
 /***/ }),
@@ -1384,13 +1326,11 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! gatsby-plugin-image */ "./node_modules/gatsby-plugin-image/dist/gatsby-image.module.js");
-/* harmony import */ var _react_icons_all_files_ai_AiFillInstagram__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @react-icons/all-files/ai/AiFillInstagram */ "./node_modules/@react-icons/all-files/ai/AiFillInstagram.js");
-/* harmony import */ var _react_icons_all_files_ai_AiFillFacebook__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @react-icons/all-files/ai/AiFillFacebook */ "./node_modules/@react-icons/all-files/ai/AiFillFacebook.js");
-/* harmony import */ var _react_icons_all_files_ai_AiFillYoutube__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @react-icons/all-files/ai/AiFillYoutube */ "./node_modules/@react-icons/all-files/ai/AiFillYoutube.js");
 
 
-
-
+// import { AiFillInstagram } from "@react-icons/all-files/ai/AiFillInstagram"
+// import { AiFillFacebook } from "@react-icons/all-files/ai/AiFillFacebook"
+// import { AiFillYoutube } from "@react-icons/all-files/ai/AiFillYoutube"
 
 function ManagementCard({
   classes
@@ -1408,22 +1348,37 @@ function ManagementCard({
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
     className: "display fw-bold"
   }, "Sean Rogers"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "Founder : Modball run"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("small", null, "Email: xyx@mail.com")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "d-flex justify-content-between fs-1 align-items-center"
+    className: "d-flex justify-content-between fs-1 align-items-center gap-3"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
     href: "https://www.instagram.com",
     className: "text-white"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_react_icons_all_files_ai_AiFillInstagram__WEBPACK_IMPORTED_MODULE_2__.AiFillInstagram, {
-    className: "border-white border rounded p-1"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_1__.StaticImage, {
+    src: "../images/instagram.png",
+    alt: "instagram link img",
+    imgClassName: "img-fluid",
+    width: 30,
+    height: 30,
+    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/909315700.json */ "./.cache/caches/gatsby-plugin-image/909315700.json")
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
     href: "https://www.facebook.com",
     className: "text-white"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_react_icons_all_files_ai_AiFillFacebook__WEBPACK_IMPORTED_MODULE_3__.AiFillFacebook, {
-    className: "border-white border rounded p-1"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_1__.StaticImage, {
+    src: "../images/facebook.png",
+    alt: "facebook link img",
+    imgClassName: "img-fluid",
+    width: 30,
+    height: 30,
+    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/1224755580.json */ "./.cache/caches/gatsby-plugin-image/1224755580.json")
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
     href: "https://www.youtube.com/",
     className: "text-white"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_react_icons_all_files_ai_AiFillYoutube__WEBPACK_IMPORTED_MODULE_4__.AiFillYoutube, {
-    className: "border-white border rounded p-1"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_1__.StaticImage, {
+    src: "../images/youtube.png",
+    alt: "youtube link img",
+    imgClassName: "img-fluid",
+    width: 30,
+    height: 30,
+    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/3242281282.json */ "./.cache/caches/gatsby-plugin-image/3242281282.json")
   })))));
 }
 
@@ -1444,9 +1399,6 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _styles_participantBar_module_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../styles/participantBar.module.scss */ "./src/styles/participantBar.module.scss");
 /* harmony import */ var gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! gatsby-plugin-image */ "./node_modules/gatsby-plugin-image/dist/gatsby-image.module.js");
-/* harmony import */ var _react_icons_all_files_ai_AiFillInstagram__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @react-icons/all-files/ai/AiFillInstagram */ "./node_modules/@react-icons/all-files/ai/AiFillInstagram.js");
-/* harmony import */ var _react_icons_all_files_ai_AiFillFacebook__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @react-icons/all-files/ai/AiFillFacebook */ "./node_modules/@react-icons/all-files/ai/AiFillFacebook.js");
-/* harmony import */ var _react_icons_all_files_ai_AiFillYoutube__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @react-icons/all-files/ai/AiFillYoutube */ "./node_modules/@react-icons/all-files/ai/AiFillYoutube.js");
 
 
 
@@ -1461,7 +1413,7 @@ function ParticipantBar({
   carPic
 }) {
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: `row rounded-pill bg-dark shadow text-light my-4 py-2 mx-md-5 mx-2 overflow-hidden ${_styles_participantBar_module_scss__WEBPACK_IMPORTED_MODULE_1__.wrapper}`
+    className: `row rounded-pill bg-black shadow text-light my-4 py-2 mx-md-5 mx-2 overflow-hidden ${_styles_participantBar_module_scss__WEBPACK_IMPORTED_MODULE_1__.wrapper}`
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     className: "col-md-5 col-12 d-flex justify-content-md-start justify-content-around align-items-center gap-md-4"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
@@ -1475,28 +1427,43 @@ function ParticipantBar({
     className: "rounded-circle"
     // height="100%"
     ,
-    width: 100,
-    height: 100,
-    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/12816355.json */ "./.cache/caches/gatsby-plugin-image/12816355.json")
+    width: 80,
+    height: 80,
+    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/1159675350.json */ "./.cache/caches/gatsby-plugin-image/1159675350.json")
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
     className: "text-capitalize text-center text-nowrap m-auto"
   }, "Name : ", name, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("br", null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("small", null, "Team : ", team)))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "col-md-2 col-6 d-flex justify-content-around fs-1 align-items-center m-auto"
+    className: "col-md-2 col-6 d-flex justify-content-around fs-1 align-items-center m-auto gap-3"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
     href: "https://www.instagram.com",
     className: "text-white"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_react_icons_all_files_ai_AiFillInstagram__WEBPACK_IMPORTED_MODULE_3__.AiFillInstagram, {
-    className: "border-white border rounded p-1"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_2__.StaticImage, {
+    src: "../images/instagram.png",
+    alt: "instagram link img",
+    className: "p-1",
+    width: 30,
+    height: 30,
+    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/909315700.json */ "./.cache/caches/gatsby-plugin-image/909315700.json")
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
     href: "https://www.facebook.com",
     className: "text-white"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_react_icons_all_files_ai_AiFillFacebook__WEBPACK_IMPORTED_MODULE_4__.AiFillFacebook, {
-    className: "border-white border rounded p-1"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_2__.StaticImage, {
+    src: "../images/facebook.png",
+    alt: "facebook link img",
+    className: "p-1",
+    width: 30,
+    height: 30,
+    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/1224755580.json */ "./.cache/caches/gatsby-plugin-image/1224755580.json")
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
     href: "https://www.youtube.com/",
     className: "text-white"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_react_icons_all_files_ai_AiFillYoutube__WEBPACK_IMPORTED_MODULE_5__.AiFillYoutube, {
-    className: "border-white border rounded p-1"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_2__.StaticImage, {
+    src: "../images/youtube.png",
+    alt: "youtube link img",
+    className: "p-1",
+    width: 30,
+    height: 30,
+    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/3242281282.json */ "./.cache/caches/gatsby-plugin-image/3242281282.json")
   }))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     className: "col-md-5 col-6 d-flex justify-content-md-end justify-content-center gap-4 align-items-center"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", {
@@ -1510,9 +1477,9 @@ function ParticipantBar({
     className: "rounded-circle"
     // height="100%"
     ,
-    width: 100,
-    height: 100,
-    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/248655665.json */ "./.cache/caches/gatsby-plugin-image/248655665.json")
+    width: 80,
+    height: 80,
+    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/871902968.json */ "./.cache/caches/gatsby-plugin-image/871902968.json")
   }))));
 }
 
@@ -1590,26 +1557,26 @@ __webpack_require__.r(__webpack_exports__);
 
 function Logobar() {
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement("div", {
-    className: "container-fluid position-relative bg-dark"
+    className: "container-fluid position-relative"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement("div", {
     className: "row text-center"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement("div", {
-    className: `col-auto bg-light mx-auto d-flex justify-content-center align-items-center ${_styles_logobar_module_scss__WEBPACK_IMPORTED_MODULE_2__.logoContainer}`
+    className: `col-auto mx-auto d-flex justify-content-center align-items-center ${_styles_logobar_module_scss__WEBPACK_IMPORTED_MODULE_2__.logoContainer}`
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_3__.StaticImage, {
-    src: "../images/logo.png",
+    src: "../images/modball run logo balck.png",
     alt: "logo",
-    className: "img-fluid",
-    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/3741423757.json */ "./.cache/caches/gatsby-plugin-image/3741423757.json")
+    className: "",
+    imgClassName: "img-fluid",
+    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/4224292492.json */ "./.cache/caches/gatsby-plugin-image/4224292492.json")
   }))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement("div", {
-    className: "row position-absolute w-100"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement("div", {
-    className: `${_styles_logobar_module_scss__WEBPACK_IMPORTED_MODULE_2__.flag} col-12 p-0`
+    className: `row position-absolute w-100 ${_styles_logobar_module_scss__WEBPACK_IMPORTED_MODULE_2__.flag}`
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_3__.StaticImage, {
-    src: "../images/indiaFlag.png",
+    src: "../images/indiaFlag.svg",
     alt: "flag",
-    className: "img-fluid",
-    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/2556594343.json */ "./.cache/caches/gatsby-plugin-image/2556594343.json")
-  }))));
+    className: "",
+    imgClassName: "img-fluid",
+    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/1174459191.json */ "./.cache/caches/gatsby-plugin-image/1174459191.json")
+  })));
 }
 
 /***/ }),
@@ -1652,14 +1619,14 @@ const Navbar = ({
   siteTitle
 }) => {
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("nav", {
-    className: "navbar navbar-expand navbar-dark bg-dark"
+    className: "navbar navbar-expand navbar-light"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     className: "container-fluid"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("div", {
     className: "collapse navbar-collapse",
     id: "main-navbar"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("ul", {
-    className: "navbar-nav me-auto mb-2 mb-md-0 d-flex w-100 justify-content-center gap-md-5 gap-2 py-3 px-md-5 bg-dark"
+    className: "navbar-nav me-auto mb-2 mb-md-0 d-flex w-100 justify-content-center gap-md-5 gap-2 py-3 px-md-5"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("li", {
     className: "nav-item text-center fw-bold"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(ExactNavLink, {
@@ -1667,15 +1634,16 @@ const Navbar = ({
   }, "Home")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("li", {
     className: "nav-item text-center fw-bold"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(ExactNavLink, {
-    to: "/about"
+    to: "/tour"
   }, "Tour")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("li", {
     className: "nav-item fw-bold text-center"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(ExactNavLink, {
     to: "/participant"
   }, "Participant")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("li", {
     className: "nav-item fw-bold text-center"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(ExactNavLink, {
-    to: "/shop"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
+    href: "https://www.modcrew.in",
+    className: "text-decoration-none"
   }, "Shop")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("li", {
     className: "nav-item fw-bold text-center"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(ExactNavLink, {
@@ -1705,15 +1673,15 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _styles_participant_module_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../styles/participant.module.scss */ "./src/styles/participant.module.scss");
-/* harmony import */ var _components_layout__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/layout */ "./src/components/layout.js");
-/* harmony import */ var _components_ParticipantBar__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/ParticipantBar */ "./src/components/ParticipantBar.js");
-/* harmony import */ var _components_ManagementCard__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../components/ManagementCard */ "./src/components/ManagementCard.js");
-/* harmony import */ var _components_Footer__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../components/Footer */ "./src/components/Footer.js");
+/* harmony import */ var _components_layout__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/layout */ "./src/components/layout.js");
+/* harmony import */ var gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! gatsby-plugin-image */ "./node_modules/gatsby-plugin-image/dist/gatsby-image.module.js");
+/* harmony import */ var _components_ParticipantBar__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/ParticipantBar */ "./src/components/ParticipantBar.js");
+/* harmony import */ var _components_ManagementCard__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/ManagementCard */ "./src/components/ManagementCard.js");
+/* harmony import */ var _components_Footer__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../components/Footer */ "./src/components/Footer.js");
+
+// import * as styles from "../styles/participant.module.scss"
 
 
-
-// import { StaticImage } from "gatsby-plugin-image"
 
 
 
@@ -1761,18 +1729,25 @@ function participant() {
     profilePic: "../images/profile.png",
     id: 6
   }];
-  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement((react__WEBPACK_IMPORTED_MODULE_0___default().Fragment), null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_components_layout__WEBPACK_IMPORTED_MODULE_2__["default"], {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement((react__WEBPACK_IMPORTED_MODULE_0___default().Fragment), null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_components_layout__WEBPACK_IMPORTED_MODULE_1__["default"], {
     className: "bg-light"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: `container-fluid ${_styles_participant_module_scss__WEBPACK_IMPORTED_MODULE_1__.imgContainer}`
-  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "container-fluid"
+    className: `container-fluid p-0`
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_5__.StaticImage, {
+    src: "../images/participantBanner.jpg",
+    alt: "banner img",
+    className: "p-0 w-100",
+    formats: ["AUTO", "WEBP"],
+    imgClassName: "img-fluid",
+    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/3708129314.json */ "./.cache/caches/gatsby-plugin-image/3708129314.json")
+  }))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
+    className: "container-fluid text-light bg-black"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h1", {
     className: "display-5 p-4 text-center text-uppercase"
   }, "Participants")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     className: "container-fluid"
   }, list.map(racer => {
-    return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_components_ParticipantBar__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_components_ParticipantBar__WEBPACK_IMPORTED_MODULE_2__["default"], {
       profilePic: racer.profilePic,
       name: racer.name,
       carName: racer.carName,
@@ -1781,7 +1756,7 @@ function participant() {
       key: racer.id
     });
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: "container-fluid"
+    className: "container-fluid text-light bg-black"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h1", {
     className: "display-5 p-4 text-center text-uppercase"
   }, "Connect with Management")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
@@ -1790,19 +1765,19 @@ function participant() {
     className: "row"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     className: "col-12"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_components_ManagementCard__WEBPACK_IMPORTED_MODULE_4__["default"], {
-    classes: "d-flex justify-content-center align-items-center gap-4 bg-primary text-white m-auto p-4 rounded shadow mb-4"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_components_ManagementCard__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    classes: "d-flex justify-content-center align-items-center gap-4 bg-black text-white m-auto p-4 rounded shadow mb-4"
   }))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     className: "row justify-content-between"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     className: "col-10 col-sm-6 m-auto"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_components_ManagementCard__WEBPACK_IMPORTED_MODULE_4__["default"], {
-    classes: "d-flex justify-content-center align-items-center gap-4 bg-dark text-white p-4 rounded shadow mb-4"
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_components_ManagementCard__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    classes: "d-flex justify-content-center align-items-center gap-4 bg-black text-white p-4 rounded shadow mb-4"
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
     className: "col-10 col-sm-6 m-auto"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_components_ManagementCard__WEBPACK_IMPORTED_MODULE_4__["default"], {
-    classes: "d-flex justify-content-center align-items-center gap-4 bg-dark text-white p-4 rounded shadow mb-4"
-  })))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_components_Footer__WEBPACK_IMPORTED_MODULE_5__["default"], null));
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_components_ManagementCard__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    classes: "d-flex justify-content-center align-items-center gap-4 bg-black text-white p-4 rounded shadow mb-4"
+  })))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement(_components_Footer__WEBPACK_IMPORTED_MODULE_4__["default"], null));
 }
 
 /***/ }),
@@ -1837,6 +1812,50 @@ function participant() {
 
 /***/ }),
 
+/***/ "./.cache/caches/gatsby-plugin-image/114795751.json":
+/*!**********************************************************!*\
+  !*** ./.cache/caches/gatsby-plugin-image/114795751.json ***!
+  \**********************************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#e80808","images":{"fallback":{"src":"/static/a1cc6d6c04cfd12be95b4d13cd881bfe/ccc41/youtube.png","srcSet":"/static/a1cc6d6c04cfd12be95b4d13cd881bfe/bf8e1/youtube.png 128w,\\n/static/a1cc6d6c04cfd12be95b4d13cd881bfe/acb7c/youtube.png 256w,\\n/static/a1cc6d6c04cfd12be95b4d13cd881bfe/ccc41/youtube.png 512w","sizes":"(min-width: 512px) 512px, 100vw"},"sources":[{"srcSet":"/static/a1cc6d6c04cfd12be95b4d13cd881bfe/6766a/youtube.webp 128w,\\n/static/a1cc6d6c04cfd12be95b4d13cd881bfe/22bfc/youtube.webp 256w,\\n/static/a1cc6d6c04cfd12be95b4d13cd881bfe/d689f/youtube.webp 512w","type":"image/webp","sizes":"(min-width: 512px) 512px, 100vw"}]},"width":512,"height":512}');
+
+/***/ }),
+
+/***/ "./.cache/caches/gatsby-plugin-image/1159675350.json":
+/*!***********************************************************!*\
+  !*** ./.cache/caches/gatsby-plugin-image/1159675350.json ***!
+  \***********************************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#d8d8d8","images":{"fallback":{"src":"/static/48e9dad0cd4c2eada505d0ef9ebf5405/61ca6/profile.webp","srcSet":"/static/48e9dad0cd4c2eada505d0ef9ebf5405/264f2/profile.webp 20w,\\n/static/48e9dad0cd4c2eada505d0ef9ebf5405/e73fe/profile.webp 40w,\\n/static/48e9dad0cd4c2eada505d0ef9ebf5405/61ca6/profile.webp 80w,\\n/static/48e9dad0cd4c2eada505d0ef9ebf5405/60b4d/profile.webp 160w","sizes":"(min-width: 80px) 80px, 100vw"},"sources":[]},"width":80,"height":80}');
+
+/***/ }),
+
+/***/ "./.cache/caches/gatsby-plugin-image/1174459191.json":
+/*!***********************************************************!*\
+  !*** ./.cache/caches/gatsby-plugin-image/1174459191.json ***!
+  \***********************************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#f8f8f8","images":{"fallback":{"src":"/static/6f4c09afe1dece7ede104132e19efa2a/a605f/indiaFlag.svg","srcSet":"/static/6f4c09afe1dece7ede104132e19efa2a/ea66d/indiaFlag.svg 13w,\\n/static/6f4c09afe1dece7ede104132e19efa2a/8f5df/indiaFlag.svg 26w,\\n/static/6f4c09afe1dece7ede104132e19efa2a/a605f/indiaFlag.svg 52w","sizes":"(min-width: 52px) 52px, 100vw"},"sources":[{"srcSet":"/static/6f4c09afe1dece7ede104132e19efa2a/f53a3/indiaFlag.webp 13w,\\n/static/6f4c09afe1dece7ede104132e19efa2a/1bdd1/indiaFlag.webp 26w,\\n/static/6f4c09afe1dece7ede104132e19efa2a/2090e/indiaFlag.webp 52w","type":"image/webp","sizes":"(min-width: 52px) 52px, 100vw"}]},"width":52,"height":9}');
+
+/***/ }),
+
+/***/ "./.cache/caches/gatsby-plugin-image/1224755580.json":
+/*!***********************************************************!*\
+  !*** ./.cache/caches/gatsby-plugin-image/1224755580.json ***!
+  \***********************************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#1878d8","images":{"fallback":{"src":"/static/021ada146ffb7c1753557ff29618d04c/53973/facebook.png","srcSet":"/static/021ada146ffb7c1753557ff29618d04c/22867/facebook.png 8w,\\n/static/021ada146ffb7c1753557ff29618d04c/7961d/facebook.png 15w,\\n/static/021ada146ffb7c1753557ff29618d04c/53973/facebook.png 30w,\\n/static/021ada146ffb7c1753557ff29618d04c/7ab40/facebook.png 60w","sizes":"(min-width: 30px) 30px, 100vw"},"sources":[{"srcSet":"/static/021ada146ffb7c1753557ff29618d04c/5d252/facebook.webp 8w,\\n/static/021ada146ffb7c1753557ff29618d04c/f57b3/facebook.webp 15w,\\n/static/021ada146ffb7c1753557ff29618d04c/bde72/facebook.webp 30w,\\n/static/021ada146ffb7c1753557ff29618d04c/927d1/facebook.webp 60w","type":"image/webp","sizes":"(min-width: 30px) 30px, 100vw"}]},"width":30,"height":30}');
+
+/***/ }),
+
 /***/ "./.cache/caches/gatsby-plugin-image/12816355.json":
 /*!*********************************************************!*\
   !*** ./.cache/caches/gatsby-plugin-image/12816355.json ***!
@@ -1848,36 +1867,102 @@ module.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#d8d8d8"
 
 /***/ }),
 
-/***/ "./.cache/caches/gatsby-plugin-image/248655665.json":
+/***/ "./.cache/caches/gatsby-plugin-image/2673816561.json":
+/*!***********************************************************!*\
+  !*** ./.cache/caches/gatsby-plugin-image/2673816561.json ***!
+  \***********************************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#1878d8","images":{"fallback":{"src":"/static/021ada146ffb7c1753557ff29618d04c/ccc41/facebook.png","srcSet":"/static/021ada146ffb7c1753557ff29618d04c/bf8e1/facebook.png 128w,\\n/static/021ada146ffb7c1753557ff29618d04c/acb7c/facebook.png 256w,\\n/static/021ada146ffb7c1753557ff29618d04c/ccc41/facebook.png 512w","sizes":"(min-width: 512px) 512px, 100vw"},"sources":[{"srcSet":"/static/021ada146ffb7c1753557ff29618d04c/6766a/facebook.webp 128w,\\n/static/021ada146ffb7c1753557ff29618d04c/22bfc/facebook.webp 256w,\\n/static/021ada146ffb7c1753557ff29618d04c/d689f/facebook.webp 512w","type":"image/webp","sizes":"(min-width: 512px) 512px, 100vw"}]},"width":512,"height":512}');
+
+/***/ }),
+
+/***/ "./.cache/caches/gatsby-plugin-image/3050722743.json":
+/*!***********************************************************!*\
+  !*** ./.cache/caches/gatsby-plugin-image/3050722743.json ***!
+  \***********************************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#080808","images":{"fallback":{"src":"/static/8290266a5fb402a34b96f890bbdb2d60/ccc41/instagram.png","srcSet":"/static/8290266a5fb402a34b96f890bbdb2d60/bf8e1/instagram.png 128w,\\n/static/8290266a5fb402a34b96f890bbdb2d60/acb7c/instagram.png 256w,\\n/static/8290266a5fb402a34b96f890bbdb2d60/ccc41/instagram.png 512w","sizes":"(min-width: 512px) 512px, 100vw"},"sources":[{"srcSet":"/static/8290266a5fb402a34b96f890bbdb2d60/6766a/instagram.webp 128w,\\n/static/8290266a5fb402a34b96f890bbdb2d60/22bfc/instagram.webp 256w,\\n/static/8290266a5fb402a34b96f890bbdb2d60/d689f/instagram.webp 512w","type":"image/webp","sizes":"(min-width: 512px) 512px, 100vw"}]},"width":512,"height":512}');
+
+/***/ }),
+
+/***/ "./.cache/caches/gatsby-plugin-image/3242281282.json":
+/*!***********************************************************!*\
+  !*** ./.cache/caches/gatsby-plugin-image/3242281282.json ***!
+  \***********************************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#e80808","images":{"fallback":{"src":"/static/a1cc6d6c04cfd12be95b4d13cd881bfe/53973/youtube.png","srcSet":"/static/a1cc6d6c04cfd12be95b4d13cd881bfe/22867/youtube.png 8w,\\n/static/a1cc6d6c04cfd12be95b4d13cd881bfe/7961d/youtube.png 15w,\\n/static/a1cc6d6c04cfd12be95b4d13cd881bfe/53973/youtube.png 30w,\\n/static/a1cc6d6c04cfd12be95b4d13cd881bfe/7ab40/youtube.png 60w","sizes":"(min-width: 30px) 30px, 100vw"},"sources":[{"srcSet":"/static/a1cc6d6c04cfd12be95b4d13cd881bfe/5d252/youtube.webp 8w,\\n/static/a1cc6d6c04cfd12be95b4d13cd881bfe/f57b3/youtube.webp 15w,\\n/static/a1cc6d6c04cfd12be95b4d13cd881bfe/bde72/youtube.webp 30w,\\n/static/a1cc6d6c04cfd12be95b4d13cd881bfe/927d1/youtube.webp 60w","type":"image/webp","sizes":"(min-width: 30px) 30px, 100vw"}]},"width":30,"height":30}');
+
+/***/ }),
+
+/***/ "./.cache/caches/gatsby-plugin-image/367343736.json":
 /*!**********************************************************!*\
-  !*** ./.cache/caches/gatsby-plugin-image/248655665.json ***!
+  !*** ./.cache/caches/gatsby-plugin-image/367343736.json ***!
   \**********************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#98a8a8","images":{"fallback":{"src":"/static/1fc7df4f420841d08a0a2fc61c9c0309/e07e1/car.jpg","srcSet":"/static/1fc7df4f420841d08a0a2fc61c9c0309/74ef0/car.jpg 25w,\\n/static/1fc7df4f420841d08a0a2fc61c9c0309/6ac16/car.jpg 50w,\\n/static/1fc7df4f420841d08a0a2fc61c9c0309/e07e1/car.jpg 100w,\\n/static/1fc7df4f420841d08a0a2fc61c9c0309/dd515/car.jpg 200w","sizes":"(min-width: 100px) 100px, 100vw"},"sources":[{"srcSet":"/static/1fc7df4f420841d08a0a2fc61c9c0309/2fa99/car.webp 25w,\\n/static/1fc7df4f420841d08a0a2fc61c9c0309/dbc4a/car.webp 50w,\\n/static/1fc7df4f420841d08a0a2fc61c9c0309/d8057/car.webp 100w,\\n/static/1fc7df4f420841d08a0a2fc61c9c0309/2e34e/car.webp 200w","type":"image/webp","sizes":"(min-width: 100px) 100px, 100vw"}]},"width":100,"height":100}');
+module.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#f8f8f8","images":{"fallback":{"src":"/static/2934c93b9e98c682bacdc503848068a5/a8b52/modball%20run%20logo%20white.png","srcSet":"/static/2934c93b9e98c682bacdc503848068a5/53973/modball%20run%20logo%20white.png 30w,\\n/static/2934c93b9e98c682bacdc503848068a5/7ab40/modball%20run%20logo%20white.png 60w,\\n/static/2934c93b9e98c682bacdc503848068a5/a8b52/modball%20run%20logo%20white.png 120w,\\n/static/2934c93b9e98c682bacdc503848068a5/87351/modball%20run%20logo%20white.png 240w","sizes":"(min-width: 120px) 120px, 100vw"},"sources":[{"srcSet":"/static/2934c93b9e98c682bacdc503848068a5/bde72/modball%20run%20logo%20white.webp 30w,\\n/static/2934c93b9e98c682bacdc503848068a5/927d1/modball%20run%20logo%20white.webp 60w,\\n/static/2934c93b9e98c682bacdc503848068a5/507b0/modball%20run%20logo%20white.webp 120w,\\n/static/2934c93b9e98c682bacdc503848068a5/8d565/modball%20run%20logo%20white.webp 240w","type":"image/webp","sizes":"(min-width: 120px) 120px, 100vw"}]},"width":120,"height":120}');
 
 /***/ }),
 
-/***/ "./.cache/caches/gatsby-plugin-image/2556594343.json":
+/***/ "./.cache/caches/gatsby-plugin-image/3708129314.json":
 /*!***********************************************************!*\
-  !*** ./.cache/caches/gatsby-plugin-image/2556594343.json ***!
+  !*** ./.cache/caches/gatsby-plugin-image/3708129314.json ***!
   \***********************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#f8f8f8","images":{"fallback":{"src":"/static/e40d41020bfca86072ab1cbdc10d1c2e/bcd39/indiaFlag.png","srcSet":"/static/e40d41020bfca86072ab1cbdc10d1c2e/55fa0/indiaFlag.png 11w,\\n/static/e40d41020bfca86072ab1cbdc10d1c2e/02e4d/indiaFlag.png 21w,\\n/static/e40d41020bfca86072ab1cbdc10d1c2e/bcd39/indiaFlag.png 42w","sizes":"(min-width: 42px) 42px, 100vw"},"sources":[{"srcSet":"/static/e40d41020bfca86072ab1cbdc10d1c2e/503e4/indiaFlag.webp 11w,\\n/static/e40d41020bfca86072ab1cbdc10d1c2e/efae9/indiaFlag.webp 21w,\\n/static/e40d41020bfca86072ab1cbdc10d1c2e/15536/indiaFlag.webp 42w","type":"image/webp","sizes":"(min-width: 42px) 42px, 100vw"}]},"width":42,"height":10}');
+module.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#080808","images":{"fallback":{"src":"/static/ed437bd340fb083e69df54893275962c/231aa/participantBanner.jpg","srcSet":"/static/ed437bd340fb083e69df54893275962c/12d7d/participantBanner.jpg 350w,\\n/static/ed437bd340fb083e69df54893275962c/cbf46/participantBanner.jpg 700w,\\n/static/ed437bd340fb083e69df54893275962c/231aa/participantBanner.jpg 1400w","sizes":"(min-width: 1400px) 1400px, 100vw"},"sources":[{"srcSet":"/static/ed437bd340fb083e69df54893275962c/a4795/participantBanner.webp 350w,\\n/static/ed437bd340fb083e69df54893275962c/377b6/participantBanner.webp 700w,\\n/static/ed437bd340fb083e69df54893275962c/793b4/participantBanner.webp 1400w","type":"image/webp","sizes":"(min-width: 1400px) 1400px, 100vw"}]},"width":1400,"height":700}');
 
 /***/ }),
 
-/***/ "./.cache/caches/gatsby-plugin-image/3741423757.json":
+/***/ "./.cache/caches/gatsby-plugin-image/4223391110.json":
 /*!***********************************************************!*\
-  !*** ./.cache/caches/gatsby-plugin-image/3741423757.json ***!
+  !*** ./.cache/caches/gatsby-plugin-image/4223391110.json ***!
   \***********************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#080808","images":{"fallback":{"src":"/static/067eb6430c4126bf7b8e11cfff561d6b/682af/logo.png","srcSet":"/static/067eb6430c4126bf7b8e11cfff561d6b/2bcf2/logo.png 21w,\\n/static/067eb6430c4126bf7b8e11cfff561d6b/a3d9b/logo.png 41w,\\n/static/067eb6430c4126bf7b8e11cfff561d6b/682af/logo.png 82w","sizes":"(min-width: 82px) 82px, 100vw"},"sources":[{"srcSet":"/static/067eb6430c4126bf7b8e11cfff561d6b/5f97e/logo.webp 21w,\\n/static/067eb6430c4126bf7b8e11cfff561d6b/53ad7/logo.webp 41w,\\n/static/067eb6430c4126bf7b8e11cfff561d6b/5f6c5/logo.webp 82w","type":"image/webp","sizes":"(min-width: 82px) 82px, 100vw"}]},"width":82,"height":75}');
+module.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#080808","images":{"fallback":{"src":"/static/d961fc79e0ac8a2f3dc7f6bf817eca70/ccc41/right.png","srcSet":"/static/d961fc79e0ac8a2f3dc7f6bf817eca70/bf8e1/right.png 128w,\\n/static/d961fc79e0ac8a2f3dc7f6bf817eca70/acb7c/right.png 256w,\\n/static/d961fc79e0ac8a2f3dc7f6bf817eca70/ccc41/right.png 512w","sizes":"(min-width: 512px) 512px, 100vw"},"sources":[{"srcSet":"/static/d961fc79e0ac8a2f3dc7f6bf817eca70/6766a/right.webp 128w,\\n/static/d961fc79e0ac8a2f3dc7f6bf817eca70/22bfc/right.webp 256w,\\n/static/d961fc79e0ac8a2f3dc7f6bf817eca70/d689f/right.webp 512w","type":"image/webp","sizes":"(min-width: 512px) 512px, 100vw"}]},"width":512,"height":512}');
+
+/***/ }),
+
+/***/ "./.cache/caches/gatsby-plugin-image/4224292492.json":
+/*!***********************************************************!*\
+  !*** ./.cache/caches/gatsby-plugin-image/4224292492.json ***!
+  \***********************************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#080808","images":{"fallback":{"src":"/static/a4e74157a814c9e0420faa8b6019af95/b5658/modball%20run%20logo%20balck.png","srcSet":"/static/a4e74157a814c9e0420faa8b6019af95/acb7c/modball%20run%20logo%20balck.png 256w,\\n/static/a4e74157a814c9e0420faa8b6019af95/ccc41/modball%20run%20logo%20balck.png 512w,\\n/static/a4e74157a814c9e0420faa8b6019af95/b5658/modball%20run%20logo%20balck.png 1024w","sizes":"(min-width: 1024px) 1024px, 100vw"},"sources":[{"srcSet":"/static/a4e74157a814c9e0420faa8b6019af95/22bfc/modball%20run%20logo%20balck.webp 256w,\\n/static/a4e74157a814c9e0420faa8b6019af95/d689f/modball%20run%20logo%20balck.webp 512w,\\n/static/a4e74157a814c9e0420faa8b6019af95/67ded/modball%20run%20logo%20balck.webp 1024w","type":"image/webp","sizes":"(min-width: 1024px) 1024px, 100vw"}]},"width":1024,"height":1024}');
+
+/***/ }),
+
+/***/ "./.cache/caches/gatsby-plugin-image/871902968.json":
+/*!**********************************************************!*\
+  !*** ./.cache/caches/gatsby-plugin-image/871902968.json ***!
+  \**********************************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#98a8a8","images":{"fallback":{"src":"/static/1fc7df4f420841d08a0a2fc61c9c0309/499f6/car.jpg","srcSet":"/static/1fc7df4f420841d08a0a2fc61c9c0309/f4935/car.jpg 20w,\\n/static/1fc7df4f420841d08a0a2fc61c9c0309/2f28c/car.jpg 40w,\\n/static/1fc7df4f420841d08a0a2fc61c9c0309/499f6/car.jpg 80w,\\n/static/1fc7df4f420841d08a0a2fc61c9c0309/41624/car.jpg 160w","sizes":"(min-width: 80px) 80px, 100vw"},"sources":[{"srcSet":"/static/1fc7df4f420841d08a0a2fc61c9c0309/264f2/car.webp 20w,\\n/static/1fc7df4f420841d08a0a2fc61c9c0309/e73fe/car.webp 40w,\\n/static/1fc7df4f420841d08a0a2fc61c9c0309/61ca6/car.webp 80w,\\n/static/1fc7df4f420841d08a0a2fc61c9c0309/60b4d/car.webp 160w","type":"image/webp","sizes":"(min-width: 80px) 80px, 100vw"}]},"width":80,"height":80}');
+
+/***/ }),
+
+/***/ "./.cache/caches/gatsby-plugin-image/909315700.json":
+/*!**********************************************************!*\
+  !*** ./.cache/caches/gatsby-plugin-image/909315700.json ***!
+  \**********************************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = JSON.parse('{"layout":"constrained","backgroundColor":"#080808","images":{"fallback":{"src":"/static/8290266a5fb402a34b96f890bbdb2d60/53973/instagram.png","srcSet":"/static/8290266a5fb402a34b96f890bbdb2d60/22867/instagram.png 8w,\\n/static/8290266a5fb402a34b96f890bbdb2d60/7961d/instagram.png 15w,\\n/static/8290266a5fb402a34b96f890bbdb2d60/53973/instagram.png 30w,\\n/static/8290266a5fb402a34b96f890bbdb2d60/7ab40/instagram.png 60w","sizes":"(min-width: 30px) 30px, 100vw"},"sources":[{"srcSet":"/static/8290266a5fb402a34b96f890bbdb2d60/5d252/instagram.webp 8w,\\n/static/8290266a5fb402a34b96f890bbdb2d60/f57b3/instagram.webp 15w,\\n/static/8290266a5fb402a34b96f890bbdb2d60/bde72/instagram.webp 30w,\\n/static/8290266a5fb402a34b96f890bbdb2d60/927d1/instagram.webp 60w","type":"image/webp","sizes":"(min-width: 30px) 30px, 100vw"}]},"width":30,"height":30}');
 
 /***/ }),
 

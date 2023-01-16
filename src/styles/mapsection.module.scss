@@ -3,13 +3,18 @@
   font-weight: 500;
   text-align: justify;
   @media screen and (min-width: 768px) {
-    height: 100vh;
+    max-height: 80vh;
   }
   img {
-    max-height: 95vh;
-    height: 100%;
+    max-height: 78vh;
+    // height: 100%;
   }
   h1 {
     text-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.24);
+  }
+  .textCont {
+    @media screen and (max-width: 768px) {
+      border: none !important;
+    }
   }
 }

@@ -14,7 +14,7 @@ export default function ParticipantBar({
 }) {
   return (
     <div
-      className={`row rounded-pill bg-dark shadow text-light my-4 py-2 mx-md-5 mx-2 overflow-hidden ${styles.wrapper}`}
+      className={`row rounded-pill bg-black shadow text-light my-4 py-2 mx-md-5 mx-2 overflow-hidden ${styles.wrapper}`}
     >
       {/* name and team section  */}
       <div className="col-md-5 col-12 d-flex justify-content-md-start justify-content-around align-items-center gap-md-4">
@@ -39,15 +39,36 @@ export default function ParticipantBar({
         </div>
       </div>
       {/* social links section  */}
-      <div className="col-md-2 col-6 d-flex justify-content-around fs-1 align-items-center m-auto">
+      <div className="col-md-2 col-6 d-flex justify-content-around fs-1 align-items-center m-auto gap-3">
         <a href="https://www.instagram.com" className="text-white">
-          <AiFillInstagram className="border-white border rounded p-1" />
+          {/* <AiFillInstagram className="border-white border rounded p-1" /> */}
+          <StaticImage
+            src="../images/instagram.png"
+            alt="instagram link img"
+            className="p-1"
+            width={30}
+            height={30}
+          />
         </a>
         <a href="https://www.facebook.com" className="text-white">
-          <AiFillFacebook className="border-white border rounded p-1" />
+          <StaticImage
+            src="../images/facebook.png"
+            alt="facebook link img"
+            className="p-1"
+            width={30}
+            height={30}
+          />
+          {/* <AiFillFacebook className="border-white border rounded p-1" /> */}
         </a>
         <a href="https://www.youtube.com/" className="text-white">
-          <AiFillYoutube className="border-white border rounded p-1" />
+          {/* <AiFillYoutube className="border-white border rounded p-1" /> */}
+          <StaticImage
+            src="../images/youtube.png"
+            alt="youtube link img"
+            className="p-1"
+            width={30}
+            height={30}
+          />
         </a>
       </div>
       {/* car info  */}

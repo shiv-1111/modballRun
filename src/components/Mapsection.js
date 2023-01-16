@@ -4,8 +4,10 @@ import * as styles from "../styles/mapsection.module.scss"
 
 export default function Mapsection() {
   return (
-    <div className={`container-fluid ${styles.mapWrapper} py-3 py-md-0`}>
-      <div className="row h-100">
+    <div
+      className={`container-fluid ${styles.mapWrapper} py-3 py-md-0 bg-light`}
+    >
+      <div className="row h-100 py-2">
         <div className="col-md-6">
           <StaticImage
             src="../images/map.png"
@@ -13,10 +15,13 @@ export default function Mapsection() {
             // quality={95}
             formats={["AUTO", "WEBP"]}
             alt="tour map"
-            className="img-fluid h-100"
+            // className="h-100"
+            imgClassName="img-fluid"
           />
         </div>
-        <div className="col-md-6 d-flex flex-column justify-content-center gap-3 p-5">
+        <div
+          className={`col-md-6 d-flex flex-column justify-content-center gap-3 p-5 border-md border-start border-5 border-white ${styles.textCont}`}
+        >
           <h2>
             The most exciting, one-of-a-kind & India's First Automobile
             Adventure & Endurance Valley Run is here!

@@ -10,6 +10,7 @@ exports.components = {
   "component---src-pages-contact-js": preferDefault(require("C:\\Users\\shiva\\Desktop\\trd projects\\modball\\src\\pages\\contact.js")),
   "component---src-pages-index-js": preferDefault(require("C:\\Users\\shiva\\Desktop\\trd projects\\modball\\src\\pages\\index.js")),
   "component---src-pages-page-2-js": preferDefault(require("C:\\Users\\shiva\\Desktop\\trd projects\\modball\\src\\pages\\page-2.js")),
-  "component---src-pages-participant-js": preferDefault(require("C:\\Users\\shiva\\Desktop\\trd projects\\modball\\src\\pages\\participant.js"))
+  "component---src-pages-participant-js": preferDefault(require("C:\\Users\\shiva\\Desktop\\trd projects\\modball\\src\\pages\\participant.js")),
+  "component---src-pages-tour-js": preferDefault(require("C:\\Users\\shiva\\Desktop\\trd projects\\modball\\src\\pages\\tour.js"))
 }
 

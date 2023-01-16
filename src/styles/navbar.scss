@@ -2,15 +2,15 @@
   min-width: 6vw;
   a {
     padding: 0;
-    color: rgba(256, 256, 256, 0.75);
+    color: #000;
     &:hover {
-      color: white !important;
+      color: red !important;
     }
   }
 }
 
 .active {
-  color: #fff !important;
+  color: red !important;
 }
 
 .navbar {

@@ -13,7 +13,7 @@ const ExactNavLink = props => <Link getProps={isActive} {...props} />
 
 const Navbar = ({ siteTitle }) => {
   return (
-    <nav className="navbar navbar-expand navbar-dark bg-dark">
+    <nav className="navbar navbar-expand navbar-light">
       <div className="container-fluid">
         {/* <Link to="/" className="navbar-brand d-md-none" href="#">
           {siteTitle}
@@ -31,18 +31,21 @@ const Navbar = ({ siteTitle }) => {
         </button> */}
 
         <div className="collapse navbar-collapse" id="main-navbar">
-          <ul className="navbar-nav me-auto mb-2 mb-md-0 d-flex w-100 justify-content-center gap-md-5 gap-2 py-3 px-md-5 bg-dark">
+          <ul className="navbar-nav me-auto mb-2 mb-md-0 d-flex w-100 justify-content-center gap-md-5 gap-2 py-3 px-md-5">
             <li className="nav-item text-center fw-bold">
               <ExactNavLink to="/">Home</ExactNavLink>
             </li>
             <li className="nav-item text-center fw-bold">
-              <ExactNavLink to="/about">Tour</ExactNavLink>
+              <ExactNavLink to="/tour">Tour</ExactNavLink>
             </li>
             <li className="nav-item fw-bold text-center">
               <ExactNavLink to="/participant">Participant</ExactNavLink>
             </li>
             <li className="nav-item fw-bold text-center">
-              <ExactNavLink to="/shop">Shop</ExactNavLink>
+              {/* <ExactNavLink to="/shop">Shop</ExactNavLink> */}
+              <a href="https://www.modcrew.in" className="text-decoration-none">
+                Shop
+              </a>
             </li>
             <li className="nav-item fw-bold text-center">
               <ExactNavLink to="/contact">Contact</ExactNavLink>
