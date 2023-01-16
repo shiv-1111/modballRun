@@ -14,7 +14,6 @@ export default function Logobar() {
           <StaticImage
             src="../images/modball run logo balck.png"
             alt="logo"
-            className=""
             imgClassName="img-fluid"
           />
         </div>

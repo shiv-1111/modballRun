@@ -1624,23 +1624,23 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _styles_video_module_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../styles/video.module.scss */ "./src/styles/video.module.scss");
+/* harmony import */ var _assets_video_myvideo_mp4__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../assets/video/myvideo.mp4 */ "./src/assets/video/myvideo.mp4");
+/* harmony import */ var _styles_video_module_scss__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../styles/video.module.scss */ "./src/styles/video.module.scss");
 
-// import videoBg from "../assets/video/myvideo.mp4"
+
 
 function Video() {
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("div", {
-    className: `${_styles_video_module_scss__WEBPACK_IMPORTED_MODULE_1__.videoWrapper}`
+    className: `${_styles_video_module_scss__WEBPACK_IMPORTED_MODULE_2__.videoWrapper}`
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("video", {
     loop: true,
     autoPlay: true,
     muted: true,
-    className: _styles_video_module_scss__WEBPACK_IMPORTED_MODULE_1__.videoEle
+    className: _styles_video_module_scss__WEBPACK_IMPORTED_MODULE_2__.videoEle
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("source", {
-    src: "https://ik.imagekit.io/uexzh6xkp/myVideo.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1672752833711"
+    // src="https://ik.imagekit.io/uexzh6xkp/myVideo.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1672752833711"
     // src="#"
-    // src={videoBg}
-    ,
+    src: _assets_video_myvideo_mp4__WEBPACK_IMPORTED_MODULE_1__["default"],
     type: "video/mp4"
   }), "Video not supported by your browser."));
 }
@@ -1727,7 +1727,6 @@ function Logobar() {
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_3__.StaticImage, {
     src: "../images/modball run logo balck.png",
     alt: "logo",
-    className: "",
     imgClassName: "img-fluid",
     __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/4224292492.json */ "./.cache/caches/gatsby-plugin-image/4224292492.json")
   }))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default().createElement("div", {
@@ -1972,6 +1971,21 @@ const Head = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement
 /***/ (() => {
 
 
+
+/***/ }),
+
+/***/ "./src/assets/video/myvideo.mp4":
+/*!**************************************!*\
+  !*** ./src/assets/video/myvideo.mp4 ***!
+  \**************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "static/myvideo-a8903c01090eba13f0c2327034e5bf46.mp4");
 
 /***/ }),
 

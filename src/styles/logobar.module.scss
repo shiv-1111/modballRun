@@ -4,8 +4,8 @@
   height: 12vh;
   img {
     object-fit: contain;
-    height: 10vh;
-    width: 10vh;
+    height: 10vh !important;
+    width: 10vh !important;
   }
 }
 .flag {
